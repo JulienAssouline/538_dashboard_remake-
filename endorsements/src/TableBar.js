@@ -24,7 +24,7 @@ var TableBar = (props) => {
                         rows.map((d, i) =>
                           <rect
                           key = {"rects" + i}
-                          x={props.xScale(d[0])}
+                          x={d[0]}
                           width = {(d[1] - d[0])}
                           height = { 18 }
                           />

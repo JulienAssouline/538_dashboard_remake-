@@ -107,10 +107,12 @@ class App extends React.Component {
     return (
       <div className="App">
       <TableChart data = {data} />
-      <hr
-        style={{
-            color: "lightgrey",
-        }} />
+      <br />
+      <br />
+      <div className = "endorsee_top">
+      <div className="line"> </div>
+      <img className = "endorsee_img" src={require("./CoryBooker.png")} alt={"Cory Booker"}/>
+      </div>
       <br />
       <h1> Cory Booker </h1>
        <p> U.S. senator from New Jersey </p>
@@ -123,11 +125,10 @@ class App extends React.Component {
       </div>
       </div>
       <br />
-      <hr
-        style={{
-            color: "lightgrey",
-        }}
-        />
+      <div className = "endorsee_top">
+            <div className="line"> </div>
+            <img className = "endorsee_img" src={require("./AmyKlobuchar.png")} alt={"Amy Klobuchar"}/>
+      </div>
         <br />
         <h1> Amy Klobuchar </h1>
         <p> U.S. senator from Minnesota </p>
@@ -140,11 +141,10 @@ class App extends React.Component {
         </div>
 
         <br />
-        <hr
-          style={{
-              color: "lightgrey",
-          }}
-          />
+        <div className = "endorsee_top">
+                    <div className="line"> </div>
+                    <img className = "endorsee_img" src={require("./KamalaHarris.png")} alt={"Kamala Harris"}/>
+        </div>
           <br />
       <h1> Kamala Harris </h1>
       <p> U.S. senator from California </p>
@@ -157,11 +157,10 @@ class App extends React.Component {
       </div>
       </div>
       <br />
-      <hr
-        style={{
-            color: "lightgrey",
-        }}
-        />
+      <div className = "endorsee_top">
+          <div className="line"> </div>
+          <img className = "endorsee_img" src={require("./BernieSanders.png")} alt={"Bernie Sanders"}/>
+      </div>
         <br />
         <h1> Bernie Sanders </h1>
         <p> U.S. senator from Vermont </p>
@@ -173,11 +172,10 @@ class App extends React.Component {
         </div>
         </div>
         <br />
-        <hr
-          style={{
-              color: "lightgrey",
-          }}
-          />
+        <div className = "endorsee_top">
+          <div className="line"> </div>
+          <img className = "endorsee_img" src={require("./JoeBiden.png")} alt={"Joe Biden"}/>
+        </div>
           <br />
         <h1> Joe Biden </h1>
         <p> former vice president </p>
@@ -190,11 +188,10 @@ class App extends React.Component {
         </div>
          <br />
           <br />
-          <hr
-            style={{
-                color: "lightgrey",
-            }}
-            />
+         <div className = "endorsee_top">
+                   <div className="line"> </div>
+                   <img className = "endorsee_img" src={require("./ElizabethWarren.png")} alt={"Elizabeth Warren"}/>
+                 </div>
             <br />
           <h1> Elizabeth Warren </h1>
           <p> U.S. senator from Massachusetts </p>
@@ -207,11 +204,10 @@ class App extends React.Component {
            </div>
            <br />
             <br />
-            <hr
-              style={{
-                  color: "lightgrey",
-              }}
-              />
+            <div className = "endorsee_top">
+                 <div className="line"> </div>
+                 <img className = "endorsee_img" src={require("./JulianCastro.png")} alt={"Julian Castro"}/>
+            </div>
               <br />
             <h1> Julian Castro </h1>
             <p> former U.S. secretary of Housing and Urban Development </p>
@@ -223,11 +219,10 @@ class App extends React.Component {
             </div>
             </div>
              <br />
-            <hr
-              style={{
-                  color: "lightgrey",
-              }}
-              />
+            <div className = "endorsee_top">
+                 <div className="line"> </div>
+                 <img className = "endorsee_img" src={require("./JohnDelaney.png")} alt={"John Delaney"}/>
+              </div>
               <br />
               <br />
             <h1> John Delaney </h1>
@@ -240,11 +235,10 @@ class App extends React.Component {
             </div>
             </div>
              <br />
-            <hr
-              style={{
-                  color: "lightgrey",
-              }}
-              />
+            <div className = "endorsee_top">
+                 <div className="line"> </div>
+                 <img className = "endorsee_img" src={require("./JayInslee.png")} alt={"Jay Inslee"}/>
+              </div>
               <br />
                 <br />
               <h1> Jay Inslee </h1>
@@ -258,11 +252,10 @@ class App extends React.Component {
               </div>
                <br />
                 <br />
-                <hr
-                  style={{
-                      color: "lightgrey",
-                  }}
-                  />
+                <div className = "endorsee_top">
+                   <div className="line"> </div>
+                   <img className = "endorsee_img" src={require("./MichaelBloomberg.png")} alt={"Michael Bloomberg"}/>
+                </div>
                   <br />
                 <h1> Michael Bloomberg </h1>
                 <p> former mayor of New York </p>
