@@ -108,8 +108,8 @@ class App extends React.Component {
     return (
       <div className="App">
       <div className = "summary_container">
-      <PointKey />
       <TableChart data = {data} />
+      <PointKey />
       </div>
       <br />
       <br />
