@@ -3,6 +3,7 @@ import data from './endorsements-2020.csv';
 import Table from "./Table"
 import GridMap from "./GridMap"
 import TableChart from "./TableChart"
+import PointKey from "./PointKey"
 var React = require("react")
 var d3 = require("d3")
 
@@ -106,7 +107,10 @@ class App extends React.Component {
 
     return (
       <div className="App">
+      <div className = "summary_container">
+      <PointKey />
       <TableChart data = {data} />
+      </div>
       <br />
       <br />
       <div className = "endorsee_top">
