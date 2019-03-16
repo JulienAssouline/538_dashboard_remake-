@@ -4,6 +4,7 @@ import Table from "./Table"
 import GridMap from "./GridMap"
 import TableChart from "./TableChart"
 import PointKey from "./PointKey"
+import TotalTable from "./TotalTable"
 var React = require("react")
 var d3 = require("d3")
 
@@ -272,6 +273,7 @@ class App extends React.Component {
                 </div>
                  <br />
                   <br />
+                  <TotalTable data = {data} />
       </div>
     );
   }

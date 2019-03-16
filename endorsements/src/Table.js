@@ -1,39 +1,10 @@
 import DataTable from "./dataTable"
 
 var React = require("react")
+var d3 = require("d3")
 const _ = require('lodash');
 
 class Table extends React.Component {
-  // constructor(props) {
-  //   super(props)
-  //   this.showMore = this.showMore.bind(this)
-  //   this.showLess = this.showLess.bind(this)
-  // }
-
-  // showMore() {
-  //   this.setState({
-  //     more: true,
-  //     less: false
-  //   })
-  // }
-
-  // showLess() {
-  //   this.setState({
-  //       more: false,
-  //       less: true
-  //     })
-  // }
-
-  // componentWillUpdate() {
-
-  //  const button = document.getElementById("show")
-
-
-
-  //  console.log(this)
-
-  //   console.log(button)
-  // }
 
   render() {
 
@@ -45,9 +16,29 @@ class Table extends React.Component {
          return _.omit(d, ['city', 'category', "body", "district", "endorsee", "endorser party", "order", "source", "state", "index"])
        })
 
+   // var points_array = [];
+   // tableRowsFiltered.forEach(d => points_array.push(d.points))
+
+  var points = tableRowsFiltered.map(d => d.points)
+
+  var points_sum = points.reduce((total, num) => total + num)
+
+
+   const points_array = [...Array(11).keys()]
+   points_array.shift()
+
+   // console.log(tableRowsFiltered)
+
+   var colors = d3.scaleOrdinal()
+     .domain(points_array)
+     .range(["#c2dbef","#b3d2eb","#a3c9e7","#94c0e3","#84b7de", "#75adda", "#65a4d6", "#569bd2", "#4692ce", "#3689ca"])
+
   }
     return (
-      <DataTable  rows={tableRowsFiltered} cols={tableColumnsFiltered} />
+      <div>
+      <DataTable  rows={tableRowsFiltered} cols={tableColumnsFiltered} colors = {colors} />
+      <h2 className="total_points"> Total: <span className = "total"> {points_sum +" "} </span> </h2>
+      </div>
       )
   }
 }

@@ -40,7 +40,7 @@ class PointKey extends React.Component {
 
 
   const points_value =  values.map((d,i) =>
-    <ul key = {"point"+i}>
+    <div key = {"point"+i}>
       <div className = "value" style = {{ background: colorsPoints(d.key) }}>
       {d.key + " points"}
       </div>
@@ -51,7 +51,7 @@ class PointKey extends React.Component {
         </li>
         )}
       </ul>
-      </ul>
+      </div>
       )
     return (
       <div className="point_key">

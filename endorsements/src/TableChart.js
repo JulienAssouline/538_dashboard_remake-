@@ -27,6 +27,24 @@ class TableChart extends React.Component {
     if (this.state.position.length > 0) {
       const tableData = this.state.position
 
+      var totals_array = [];
+
+            tableData.forEach(d => {
+              d.totals =
+                +d["DNC members"] +
+                +d["Former party leaders"] +
+                +d["Governors"] +
+                +d.Mayors +
+                +d["Past presidents and vice presidents"] +
+                +d["Representatives"] +
+                +d["Senators"] +
+                +d["State legislative leaders"] +
+                +d["Statewide officeholders"];
+              totals_array.push(d.totals);
+            });
+
+        tableData.sort((a,b) => b.totals - a.totals)
+
       var endorsees = tableData.map(obj => obj.endorsee)
 
       var stack = d3.stack()
@@ -55,29 +73,7 @@ class TableChart extends React.Component {
 
      var data = transpose(series)
 
-     console.log(tableData)
-
-
-     var totals_array = [];
-
-           tableData.forEach(d => {
-             d.totals =
-               +d["DNC members"] +
-               +d["Former party leaders"] +
-               +d["Governors"] +
-               +d.Mayors +
-               +d["Past presidents and vice presidents"] +
-               +d["Representatives"] +
-               +d["Senators"] +
-               +d["State legislative leaders"] +
-               +d["Statewide officeholders"];
-             totals_array.push(d.totals);
-           });
-
       var endorsees_img = endorsees.map(d => d.replace(/\s+/g,'').trim())
-
-      console.log(endorsees_img)
-
 
       var xScale = d3.scaleLinear()
             .domain([0, d3.max(totals_array)])
@@ -88,6 +84,7 @@ class TableChart extends React.Component {
     }
 
     return (
+    <div id = "table_chart">
       <table className ="table">
             <tbody>
               {
@@ -119,6 +116,7 @@ class TableChart extends React.Component {
             }
             </tbody>
           </table>
+        </div>
       )
   }
 }

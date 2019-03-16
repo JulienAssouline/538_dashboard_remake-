@@ -40,6 +40,38 @@ th, td {
 td.endorsee {
    font-size: 16px;
 }
+/*ul {
+  list-style-type: none;
+  list-style-position: outside;
+      text-align: left; }
+
+*/
+
+ul > li {
+    padding-right: -20px;
+    text-align: left;
+  content: "•";
+  color: black;
+  list-style-position: outside;
+  text-align: left;
+
+
+}
+
+.total_points {
+
+float: right;
+}
+.total {
+  border: 2px solid #222;
+  text-align: center;
+  width: 35px;
+  padding: 4px;
+    /*padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;*/
+}
 
 .endorsee_img {
   position:relative;
@@ -48,16 +80,48 @@ td.endorsee {
 
 }
 
-.point_key {
-  background: #f0f0f0;
+h2 {
+  font-size: 20px;
 }
 
-.value {
-  width: 100%;
-/*  background: #008fd5df;
-*/  color: white;
-  font-size: 14px;
+.summary_container {
+  display: flex;
+  position: relative;
+  margin:auto;
 }
+
+#table_chart {
+  display: inline-block;
+  width: 50%;
+  padding-left: 80px;
+  padding-right: 120px;
+/*   height: 830px;
+*/
+
+}
+
+.point_key {
+  background: #f0f0f0;
+    display: inline-block;
+      width: 25%;
+      padding: 20px;
+      max-width: 250px;
+
+
+/*      height: 830px;
+*/}
+
+.value {
+  width: 95%;
+  color: white;
+  font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+  padding-left: 10px;
+
+}
+
+
 
 .line {
   width: 100%;
@@ -89,7 +153,6 @@ height: 47px;
 .points {
   width: 20px;
   height: 20px;
-  background-color: lightblue;
   padding: 2px;
   padding-top: 2px;
   padding-bottom: 2px;
