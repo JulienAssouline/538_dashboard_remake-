@@ -152,6 +152,16 @@ height: 47px;
   font-size: 14px;
 }
 
+.seachbox {
+  padding: 6px;
+  cursor: text;
+  border: 1px solid black;
+  width: 220px;
+  color: #999baa;
+  font-size: 12px;
+  float: right;
+}
+
 .total_headers:hover {
   background-color: lightgrey; /* Green */
   cursor: pointer;
@@ -186,6 +196,10 @@ height: 47px;
   padding-left: 7px;
   color: white;
   font-weight: bold;
+}
+
+.table_input {
+  padding: 20px;
 }
 button {
   border: 1px solid #3c3c3c;

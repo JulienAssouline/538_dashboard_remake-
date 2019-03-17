@@ -32,7 +32,7 @@ class GridMap extends React.Component {
 
     const { gridData } = this.state
 
-    const points_state_array = gridData.map(d => d.points_x);
+    const points_state_array = gridData.map(d => +d.points_x);
 
     const max = Math.max(...points_state_array)
     const min = Math.min(...points_state_array)
@@ -42,8 +42,42 @@ class GridMap extends React.Component {
       .range(['#b2ddf0', '#92bcd8', '#769cbf', '#5d7da7', '#46608f', '#334577', '#232d5f'])
 
     var rectScale = d3.scaleLinear()
-           .domain(d3.extent(gridData, function(d){ return +d.points_x}))
+           .domain(d3.extent(gridData, d => +d.points_x))
            .range([1, 15])
+
+    const unique_points = [1,2,3,4,5,6,7,8,9,10]
+    const unique_text = [0,2,4,6,8,10]
+
+    unique_points.sort((a,b) => b - a)
+
+    console.log(unique_points)
+
+    var legendScale = d3.scaleLinear()
+      .domain([0, d3.max(unique_points, d => d)])
+      .range([1, 100])
+
+    var legend = unique_points.map((d,i) =>
+      <rect key = {"legend" + i}
+      width = {10}
+      height = {10}
+      x = {legendScale(d)}
+      style = {{
+        fill: color(d)
+       }}
+      />
+      )
+
+    var legend_text = unique_text.map((d,i) =>
+      <text key = {"text" + i}
+      textAnchor="middle"
+      x = {legendScale(d) + 10}
+      y = {18}
+      style = {{
+        fontSize: 10
+      }}
+      > {d} </text>
+      )
+
 
     const gridmap = gridData.map((d,i) =>
       <g key = {"grid" + i} transform={"translate(" + (d.x * width) + "," + (d.y * height) + ")"}>
@@ -74,6 +108,8 @@ class GridMap extends React.Component {
     return (
       <div id = "charts">
       <svg width = {12 * width} height = {12 * height}>
+      {legend_text}
+      {legend}
       <g>
       { gridmap }
       </g>

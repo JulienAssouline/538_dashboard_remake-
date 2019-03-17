@@ -3,13 +3,30 @@ const React = require("react")
 const d3 = require("d3")
 const _ = require('lodash');
 
+function isSearched(searchTerm) {
+  return function(item) {
+    return (item.state.toLowerCase().includes(searchTerm.toLowerCase().trim()) || item.position.toLowerCase().includes(searchTerm.toLowerCase().trim()) || item.endorser.toLowerCase().includes(searchTerm.toLowerCase().trim()))
+  }
+}
+
 
 class TotalTable extends React.Component {
   constructor(props) {
     super(props)
-    this.state = { data: [], direction: "desc" };
+    this.state = {
+      data: [],
+      direction: "desc",
+      value: "Search by position, state, or endorser",
+      totalTableMore: true
+    };
     this.sortTable = this.sortTable.bind(this)
+    this.onSearchChange = this.onSearchChange.bind(this)
+    this.searchClick = this.searchClick.bind(this)
+    this.showMoreTotal = this.showMoreTotal.bind(this)
+    this.showLessTotal = this.showLessTotal.bind(this)
   }
+
+  anchorRef = React.createRef()
 
   componentWillMount() {
     d3.csv(data)
@@ -26,15 +43,23 @@ class TotalTable extends React.Component {
       })
   }
 
+  onSearchChange(event) {
+    this.setState({
+      value: event.target.value
+    })
+  }
+
+  searchClick() {
+    this.setState({
+      value: ""
+    })
+  }
+
   sortTable(event, sortKey) {
 
     const direction = this.state.direction === 'asc' ? 'desc' : 'asc';
 
-    console.log(this.state.data)
-    console.log(sortKey)
-
     const dataSorted = this.state.data;
-
 
     if (sortKey === "points") {
       console.log(direction === "desc")
@@ -71,8 +96,18 @@ class TotalTable extends React.Component {
       })
     }
 
+  }
 
+  showMoreTotal() {
+    this.setState({
+        totalTableMore: true,
+      })
+  }
 
+  showLessTotal() {
+    this.setState({
+        totalTableMore: false,
+      })
   }
 
   render() {
@@ -80,13 +115,23 @@ class TotalTable extends React.Component {
     if (this.state.data.length > 0) {
       var data = this.state.data
 
-      console.log(this.state)
-
     var columns = ["points", "position", "state", "endorser","endorsee",  "date"]
 
       var dataFiltered = _.map(data, d => {
             return _.omit(d, ['city', 'category', "body", "district", "endorser party", "order", "source", "index"])
           })
+
+      if (this.state.totalTableMore === true) {
+        dataFiltered.forEach((d, i) => {
+          d.index = i
+        })
+
+        dataFiltered = dataFiltered.filter(d => d.index < 15)
+      }
+
+
+      var dataNew = this.state.value === "Search by position, state, or endorser" ? dataFiltered : dataFiltered.filter(isSearched(this.state.value))
+
 
     }
 
@@ -97,10 +142,23 @@ class TotalTable extends React.Component {
      .domain(points_array)
      .range(["#c2dbef","#b3d2eb","#a3c9e7","#94c0e3","#84b7de", "#75adda", "#65a4d6", "#569bd2", "#4692ce", "#3689ca"])
 
-    String.prototype.capitalize = function() {
-    return this.charAt(0).toUpperCase() + this.slice(1);
-}
+        String.prototype.capitalize = function() {
+        return this.charAt(0).toUpperCase() + this.slice(1);
+        }
+
+    const total_table = document.getElementById("total_button")
+    if (total_table !== null) {
+     this.state.totalTableMore === true ? total_table.innerText = "Show More" : total_table.innerText = "Show Less"
+    }
+
     return (
+    <div className = "table_input">
+      <form>
+          <input onClick = {this.searchClick} ref = { node => this.node = node } className = "seachbox" type = "text" onBlur={this.onSearchChange} placeholder="Search by position, state, or endorser" />
+     </form>
+     <div style = {{height: 50}}>
+     <br />
+     </div>
       <table className ="table">
         <thead id  ="headers">
         <tr>
@@ -119,11 +177,12 @@ class TotalTable extends React.Component {
       </thead>
       <tbody>
       {
-        dataFiltered !== undefined ? dataFiltered.map((d,i) =>
+
+        dataNew !== undefined ? dataNew.map((d,i) =>
           <tr key = {"row" + i}>
           {
-            dataFiltered !== undefined ?  columns.map((col, i) =>
-            <td key = {col}> <span className = {col === "points" ? "points" : "others"} style = {{background: col === "points" ? colors(d[col]) : "white", color: col === "points" ? "white" : d.endorsee !== "" ? "black" : "lightgrey"}}> { d[col] } </span> </td>
+            dataNew !== undefined ?  columns.map((col, i) =>
+            <td key = {col}> <span className = {col === "points" ? "points" : "others"} style = {{background: col === "points" ? colors(d[col]) : "white", color: col === "points" ? "white" : d.endorsee !== "" ? "black" : "#999"}}> { d[col] } </span> </td>
             ) : null
           }
           </tr>
@@ -131,6 +190,8 @@ class TotalTable extends React.Component {
       }
       </tbody>
       </table>
+      <button onClick = {this.state.totalTableMore === false? this.showMoreTotal : this.showLessTotal } id="total_button"> Show More </button>
+      </div>
       )
   }
 }
