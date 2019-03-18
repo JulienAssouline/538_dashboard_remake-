@@ -116,6 +116,9 @@ class App extends React.Component {
 
     return (
       <div className="App">
+      <div className = "explination">
+      <p> This is a remake of <a href = "https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary/?ex_cid=rrpromo"> FiveThirtyEight's endorsement </a> dashboard. All design and data comes from them. This was an exercise in building a medium sized React application and combining it with D3. The application isn't live so the data I am using is outdated. I learned a lot, and you can find all of the source code <a href="https://github.com/JulienAssouline/538_dashboard_remake-">here</a>. </p>
+      </div>
       <h1> The 2020 Endorsement Primary [Remake] </h1>
       <p style = {{ fontSize: 18}}> Which Democratic candidates are receiving the most support from prominent members of their party? </p>
       <br />

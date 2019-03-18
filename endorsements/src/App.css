@@ -58,6 +58,12 @@ ul > li {
 
 }
 
+.explination {
+  width: 70%;
+  border: 2px solid black;
+  display: inline-block;
+}
+
 .total_points {
 
 float: right;

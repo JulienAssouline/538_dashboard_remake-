@@ -1,9 +1,7 @@
 import position from "./position.csv"
-import TableBar from "./TableBar"
 import { transpose } from "./utils"
 var React = require("react")
 var d3 = require("d3")
-
 
 class TableChart extends React.Component {
 
@@ -99,29 +97,24 @@ class TableChart extends React.Component {
                       <g className="node" transform="translate(0,20)">
                         {rows.map((d, j) => (
                           <rect
+                            className= {j + "rect"}
                             key = {j + "rect"}
                             height={40}
                             width={xScale(d[1]) - xScale(d[0])}
                             x={xScale(d[0])}
                             style = {{
                               fill: colors(j),
-                              stroke: this.props.hoverElement === (d[1] - d[0]) ? "black" : "none"
+                              stroke: window.innerWidth < 900 ? "none" : this.props.hoverElement === (d[1] - d[0] + d.data.endorsee +j) ? "black" : "none"
                             }}
-                            onMouseEnter = { () => {
-                              this.props.onHover(d[1] - d[0])
-                              console.log(d.data)
+                            onMouseEnter = { (e, l) => {
 
-                              // (d[1] - d[0]) ===
+                              var keys = Object.keys(d.data);
 
-                             // var endorser = d.data.forEach((el, i) => {
+                             var endorser = keys.filter(function(key) {
+                                  return +d.data[key] === (d[1] - d[0])
+                              });
 
-                             //    if ((d[1] - d[0]) === el) {
-                             //      return Object.keys(i)
-                             //    }
-
-                             //  })
-
-                              console.log(endorser)
+                              this.props.onHover(d[1] - d[0] + d.data.endorsee + j)
 
                               d3.select(this.node)
                               .transition()
@@ -129,14 +122,16 @@ class TableChart extends React.Component {
                               .style("opacity", 1)
 
                               d3.select(this.node)
-                               .html(d[1] - d[0] + " points from ")
+                               .html(d[1] - d[0] + " points from " + endorser)
                             }}
 
                             onMouseMove = { () => {
-                                    d3.select(this.node)
-                                    .style("left", (window.event.pageX - 40) + "px")
-                                    .style("top", (window.event.pageY - 0) + "px")
-
+                                    console.log(window.innerWidth)
+                                    if (window.innerWidth > 900) {
+                                      d3.select(this.node)
+                                      .style("left", (window.event.pageX - 40) + "px")
+                                      .style("top", (window.event.pageY - 340) + "px")
+                                    }
                             }}
 
                             onMouseOut = { () => {
