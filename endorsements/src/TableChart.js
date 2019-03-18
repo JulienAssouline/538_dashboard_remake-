@@ -126,7 +126,6 @@ class TableChart extends React.Component {
                             }}
 
                             onMouseMove = { () => {
-                                    console.log(window.innerWidth)
                                     if (window.innerWidth > 900) {
                                       d3.select(this.node)
                                       .style("left", (window.event.pageX - 40) + "px")

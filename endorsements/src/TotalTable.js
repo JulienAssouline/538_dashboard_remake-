@@ -62,7 +62,6 @@ class TotalTable extends React.Component {
     const dataSorted = this.state.data;
 
     if (sortKey === "points") {
-      console.log(direction === "desc")
      direction === "desc" ? dataSorted.sort((a,b) => b.points - a.points) : dataSorted.sort((a,b) => a.points - b.points)
       this.setState({
         dataSorted,

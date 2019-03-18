@@ -16,9 +16,6 @@ class Table extends React.Component {
          return _.omit(d, ['city', 'category', "body", "district", "endorsee", "endorser party", "order", "source", "state", "index"])
        })
 
-   // var points_array = [];
-   // tableRowsFiltered.forEach(d => points_array.push(d.points))
-
   var points = tableRowsFiltered.map(d => d.points)
 
   var points_sum = points.reduce((total, num) => total + num)
@@ -27,7 +24,6 @@ class Table extends React.Component {
    const points_array = [...Array(11).keys()]
    points_array.shift()
 
-   // console.log(tableRowsFiltered)
 
    var colors = d3.scaleOrdinal()
      .domain(points_array)
