@@ -88,6 +88,7 @@ h2 {
   display: flex;
   position: relative;
   margin:auto;
+
 }
 
 #table_chart {
@@ -97,8 +98,9 @@ h2 {
   padding-right: 120px;
 /*   height: 830px;
 */
-
 }
+
+
 
 .point_key {
   background: #f0f0f0;
@@ -110,6 +112,7 @@ h2 {
 
 /*      height: 830px;
 */}
+
 
 .value {
   width: 95%;
@@ -134,17 +137,25 @@ height: 47px;
 .table tr:first-child th {
     border-bottom: 2px solid black
 }
+
+#endorsee {
+  display: flex;
+  position: relative;
+  margin:auto;
+}
 #charts {
   display: inline-block;
   margin-right:60px;
-/*  width: 30%;
-*/}
+  margin-left:20px;
+  width: 40%;
+}
 #tables {
   display: inline-block;
   margin-left:auto;
 /*background-color: powderblue;
 */position: relative;
-  width: 670px;
+margin-right:20px;
+  width: 60%;
   height: 430px;
 }
 
@@ -220,3 +231,45 @@ button:hover {
 tr:last-child td {
     border-bottom: none;
 }
+
+div.tooltip {
+    position: absolute;
+    text-align: left;
+    color: white;
+    padding: 7px;
+    background-color: darkgrey;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 550;
+}
+
+@media only screen and (max-width: 800px) {
+    .summary_container {
+  display: inline-block;
+}
+
+
+#table_chart {
+  width: 100%;
+
+}
+
+.point_key {
+      width: 100%;
+      max-width: none;
+}
+  }
+
+  @media only screen and (max-width: 900px) {
+
+#endorsee {
+  display: inline-block;
+}
+
+#tables {
+width: 100%;
+}
+
+  }
+

@@ -104,8 +104,50 @@ class TableChart extends React.Component {
                             width={xScale(d[1]) - xScale(d[0])}
                             x={xScale(d[0])}
                             style = {{
-                              fill: colors(j)
+                              fill: colors(j),
+                              stroke: this.props.hoverElement === (d[1] - d[0]) ? "black" : "none"
                             }}
+                            onMouseEnter = { () => {
+                              this.props.onHover(d[1] - d[0])
+                              console.log(d.data)
+
+                              // (d[1] - d[0]) ===
+
+                             // var endorser = d.data.forEach((el, i) => {
+
+                             //    if ((d[1] - d[0]) === el) {
+                             //      return Object.keys(i)
+                             //    }
+
+                             //  })
+
+                              console.log(endorser)
+
+                              d3.select(this.node)
+                              .transition()
+                              .duration(100)
+                              .style("opacity", 1)
+
+                              d3.select(this.node)
+                               .html(d[1] - d[0] + " points from ")
+                            }}
+
+                            onMouseMove = { () => {
+                                    d3.select(this.node)
+                                    .style("left", (window.event.pageX - 40) + "px")
+                                    .style("top", (window.event.pageY - 0) + "px")
+
+                            }}
+
+                            onMouseOut = { () => {
+                                    this.props.onHover(undefined)
+
+                                    d3.select(this.node)
+                                    .transition()
+                                    .duration(100)
+                                    .style("opacity", 0)
+                                  }}
+
                           />
                         ))}
                       </g>
@@ -116,6 +158,7 @@ class TableChart extends React.Component {
             }
             </tbody>
           </table>
+          <div ref = { node => this.node = node } className = "tooltip" style = {{ opacity: 0 }}> </div>
         </div>
       )
   }

@@ -154,7 +154,7 @@ class TotalTable extends React.Component {
     return (
     <div className = "table_input">
       <form>
-          <input onClick = {this.searchClick} ref = { node => this.node = node } className = "seachbox" type = "text" onBlur={this.onSearchChange} placeholder="Search by position, state, or endorser" />
+          <input onClick = {this.searchClick} ref = { node => this.node = node } className = "seachbox" type = "text" onChange={this.onSearchChange} placeholder="Search by position, state, or endorser" />
      </form>
      <div style = {{height: 50}}>
      <br />

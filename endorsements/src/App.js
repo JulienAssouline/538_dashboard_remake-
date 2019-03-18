@@ -16,6 +16,8 @@ class App extends React.Component {
     this.showLessBooker = this.showLessBooker.bind(this)
     this.showMoreHarris = this.showMoreHarris.bind(this)
     this.showLessHarris = this.showLessHarris.bind(this)
+    this.onHover = this.onHover.bind(this)
+    this.event = { hover: "none" }
   }
 
   state = {
@@ -48,6 +50,12 @@ class App extends React.Component {
     this.setState({
         harrisMore: false,
       })
+  }
+
+  onHover(d) {
+    this.setState({
+      hover: d
+    })
   }
 
 
@@ -108,8 +116,13 @@ class App extends React.Component {
 
     return (
       <div className="App">
+      <h1> The 2020 Endorsement Primary [Remake] </h1>
+      <p style = {{ fontSize: 18}}> Which Democratic candidates are receiving the most support from prominent members of their party? </p>
+      <br />
+      <br />
+      <br />
       <div className = "summary_container">
-      <TableChart data = {data} />
+      <TableChart data = {data}  hoverElement={this.state.hover} onHover = {this.onHover} />
       <PointKey />
       </div>
       <br />
@@ -130,6 +143,10 @@ class App extends React.Component {
       </div>
       </div>
       <br />
+      <br />
+       <br />
+        <br />
+         <br />
       <div className = "endorsee_top">
             <div className="line"> </div>
             <img className = "endorsee_img" src={require("./AmyKlobuchar.png")} alt={"Amy Klobuchar"}/>
@@ -144,8 +161,11 @@ class App extends React.Component {
           <Table data = { amy_data } columns = { columns } />
         </div>
         </div>
-
         <br />
+              <br />
+               <br />
+                <br />
+                 <br />
         <div className = "endorsee_top">
                     <div className="line"> </div>
                     <img className = "endorsee_img" src={require("./KamalaHarris.png")} alt={"Kamala Harris"}/>
@@ -162,6 +182,10 @@ class App extends React.Component {
       </div>
       </div>
       <br />
+      <br />
+       <br />
+        <br />
+         <br />
       <div className = "endorsee_top">
           <div className="line"> </div>
           <img className = "endorsee_img" src={require("./BernieSanders.png")} alt={"Bernie Sanders"}/>
@@ -177,6 +201,10 @@ class App extends React.Component {
         </div>
         </div>
         <br />
+      <br />
+       <br />
+        <br />
+         <br />
         <div className = "endorsee_top">
           <div className="line"> </div>
           <img className = "endorsee_img" src={require("./JoeBiden.png")} alt={"Joe Biden"}/>
@@ -191,8 +219,6 @@ class App extends React.Component {
           <Table data = { biden_data } columns = { columns } />
         </div>
         </div>
-         <br />
-          <br />
          <div className = "endorsee_top">
                    <div className="line"> </div>
                    <img className = "endorsee_img" src={require("./ElizabethWarren.png")} alt={"Elizabeth Warren"}/>
@@ -207,8 +233,6 @@ class App extends React.Component {
              <Table data = { elizabeth_data } columns = { columns } />
            </div>
            </div>
-           <br />
-            <br />
             <div className = "endorsee_top">
                  <div className="line"> </div>
                  <img className = "endorsee_img" src={require("./JulianCastro.png")} alt={"Julian Castro"}/>
@@ -223,7 +247,6 @@ class App extends React.Component {
               <Table data = { julian_data } columns = { columns } />
             </div>
             </div>
-             <br />
             <div className = "endorsee_top">
                  <div className="line"> </div>
                  <img className = "endorsee_img" src={require("./JohnDelaney.png")} alt={"John Delaney"}/>
@@ -239,7 +262,6 @@ class App extends React.Component {
               <Table data = { john_data } columns = { columns } />
             </div>
             </div>
-             <br />
             <div className = "endorsee_top">
                  <div className="line"> </div>
                  <img className = "endorsee_img" src={require("./JayInslee.png")} alt={"Jay Inslee"}/>
@@ -255,8 +277,6 @@ class App extends React.Component {
                 <Table data = { jay_data } columns = { columns } />
               </div>
               </div>
-               <br />
-                <br />
                 <div className = "endorsee_top">
                    <div className="line"> </div>
                    <img className = "endorsee_img" src={require("./MichaelBloomberg.png")} alt={"Michael Bloomberg"}/>

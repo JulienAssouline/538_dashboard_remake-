@@ -50,8 +50,6 @@ class GridMap extends React.Component {
 
     unique_points.sort((a,b) => b - a)
 
-    console.log(unique_points)
-
     var legendScale = d3.scaleLinear()
       .domain([0, d3.max(unique_points, d => d)])
       .range([1, 100])
@@ -61,6 +59,7 @@ class GridMap extends React.Component {
       width = {10}
       height = {10}
       x = {legendScale(d)}
+      y = {20}
       style = {{
         fill: color(d)
        }}
@@ -71,7 +70,7 @@ class GridMap extends React.Component {
       <text key = {"text" + i}
       textAnchor="middle"
       x = {legendScale(d) + 10}
-      y = {18}
+      y = {38}
       style = {{
         fontSize: 10
       }}
@@ -108,6 +107,7 @@ class GridMap extends React.Component {
     return (
       <div id = "charts">
       <svg width = {12 * width} height = {12 * height}>
+      <text x = {10} y = {10} style = {{ fontSize: 10 }}> Candidate’s points </text>
       {legend_text}
       {legend}
       <g>
