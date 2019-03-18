@@ -1,0 +1,905 @@
+,date,position,city,state,endorser,endorsee,endorser party,source,order,category,body,district,points_x,key,name,x,y,points_y,points_by_state
+0,2019-02-06,past vice president,,MN,Walter Mondale,Amy Klobuchar,D,https://wadenapj.com/news/government-and-politics/4567736-mondale-backs-klobuchar-bid-former-vp-likes-senators-chances,,Past presidents and vice presidents,,,10,MN,Minnesota,4,2,63,39.0
+1,2019-02-10,governor,,MN,Tim Walz,Amy Klobuchar,D,https://www.youtube.com/watch?v=EYXpQGKiZhM,,Governors,,,8,MN,Minnesota,4,2,63,39.0
+2,2019-02-10,senator,,MN,Tina Smith,Amy Klobuchar,D,https://www.youtube.com/watch?v=EYXpQGKiZhM,,Senators,,,6,MN,Minnesota,4,2,63,39.0
+3,2019-02-10,mayor,Minneapolis,MN,Jacob Frey,Amy Klobuchar,D,https://www.minnpost.com/national/2019/02/klobuchar-launches-2020-presidential-bid/,45.0,Mayors,,,3,MN,Minnesota,4,2,63,39.0
+4,2019-02-10,representative,,MN,Angie Craig,Amy Klobuchar,D,https://twitter.com/AngieCraigMN/status/1094711099998507015,,Representatives,,2.0,3,MN,Minnesota,4,2,63,39.0
+5,2019-02-10,representative,,MN,Dean Phillips,Amy Klobuchar,D,https://twitter.com/deanbphillips/status/1094723519366221827,,Representatives,,3.0,3,MN,Minnesota,4,2,63,39.0
+6,2019-02-10,speaker,,MN,Melissa Hortman,Amy Klobuchar,D,https://www.facebook.com/MelissaHortman/photos/a.749130508478704/2179548155436925/,,State legislative leaders,House,,2,MN,Minnesota,4,2,63,39.0
+7,2019-02-10,lieutenant governor,,MN,Peggy Flanagan,Amy Klobuchar,D,https://www.minnpost.com/national/2019/02/klobuchar-launches-2020-presidential-bid/,103.0,Statewide officeholders,,,2,MN,Minnesota,4,2,63,39.0
+8,2019-02-10,state auditor,,MN,Julie Blaha,Amy Klobuchar,D,https://twitter.com/julieblaha/status/1094683488203296768,106.0,Statewide officeholders,,,2,MN,Minnesota,4,2,63,39.0
+9,,mayor,St. Paul,MN,Melvin Carter,,D,,60.0,Mayors,,,3,MN,Minnesota,4,2,63,0.0
+10,,representative,,MN,Betty McCollum,,D,,,Representatives,,4.0,3,MN,Minnesota,4,2,63,0.0
+11,,representative,,MN,Ilhan Omar,,D,,,Representatives,,5.0,3,MN,Minnesota,4,2,63,0.0
+12,,representative,,MN,Collin C. Peterson,,D,,,Representatives,,7.0,3,MN,Minnesota,4,2,63,0.0
+13,,minority leader,,MN,Tom Bakk,,D,,,State legislative leaders,Senate,,2,MN,Minnesota,4,2,63,0.0
+14,,secretary of state,,MN,Steve Simon,,D,,104.0,Statewide officeholders,,,2,MN,Minnesota,4,2,63,0.0
+15,,attorney general,,MN,Keith Ellison,,D,,105.0,Statewide officeholders,,,2,MN,Minnesota,4,2,63,0.0
+16,,DNC member,,MN,J.P. Barone,,D,,,DNC members,,,1,MN,Minnesota,4,2,63,0.0
+17,,DNC member,,MN,Ron Harris,,D,,,DNC members,,,1,MN,Minnesota,4,2,63,0.0
+18,,DNC member,,MN,Marge Hoffa,,D,,,DNC members,,,1,MN,Minnesota,4,2,63,0.0
+19,,DNC member,,MN,Ken Martin,,D,,,DNC members,,,1,MN,Minnesota,4,2,63,0.0
+20,,DNC member,,MN,Lori A. Sellner,,D,,,DNC members,,,1,MN,Minnesota,4,2,63,0.0
+21,,DNC member,,MN,Elly Zaragoza,,D,,,DNC members,,,1,MN,Minnesota,4,2,63,0.0
+22,2019-02-15,governor,,CA,Gavin Newsom,Kamala Harris,D,https://www.politico.com/story/2019/02/15/gavin-newsom-endorses-kamala-harris-2020-1173317,,Governors,,,8,CA,California,0,4,230,43.0
+23,2019-01-03,senator,,CA,Dianne Feinstein,Joe Biden,D,https://www.politico.com/story/2019/01/03/dianne-feinstein-2020-pick-joe-biden-1079024,,Senators,,,6,CA,California,0,4,230,6.0
+24,2019-01-27,mayor,San Francisco,CA,London Breed,Kamala Harris,D,https://www.politico.com/newsletters/california-playbook/2019/01/28/kamala-launches-on-her-home-turf-trump-renews-california-lie-newsom-intensifies-housing-battle-shutdown-victory-boosts-pelosi-data-privacy-20-fight-powers-up-382254,13.0,Mayors,,,3,CA,California,0,4,230,43.0
+25,2019-01-27,mayor,Oakland,CA,Libby Schaaf,Kamala Harris,D,https://www.mercurynews.com/2019/01/27/kamala-harris-president-oakland-rally-campaign-kickoff/,44.0,Mayors,,,3,CA,California,0,4,230,43.0
+26,2019-02-14,representative,,CA,Barbara Lee,Kamala Harris,D,https://www.cnn.com/2019/02/14/politics/kamala-harris-barbara-lee-cbc/index.html,,Representatives,,13.0,3,CA,California,0,4,230,43.0
+27,2019-02-21,representative,,CA,Ro Khanna,Bernie Sanders,D,https://www.sfchronicle.com/politics/article/Bernie-Sanders-enlists-Ro-Khanna-for-presidential-13635537.php,,Representatives,,17.0,3,CA,California,0,4,230,3.0
+28,2019-01-29,representative,,CA,Katie Hill,Kamala Harris,D,https://thehill.com/homenews/campaign/427595-freshman-dem-endorses-harriss-2020-bid,,Representatives,,25.0,3,CA,California,0,4,230,43.0
+29,2019-02-28,representative,,CA,Julia Brownley,Kamala Harris,D,https://www.nbclosangeles.com/news/local/Rep-Julia-Brownley-Endorses-Kamala-Harris-for-President-506459851.html,,Representatives,,26.0,3,CA,California,0,4,230,43.0
+30,2019-01-28,representative,,CA,Ted Lieu,Kamala Harris,D,https://thehill.com/homenews/house/427255-ted-lieu-endorses-kamala-harris-for-president-she-embraces-the-future,,Representatives,,33.0,3,CA,California,0,4,230,43.0
+31,2019-01-29,representative,,CA,Nanette Diaz Barragán,Kamala Harris,D,https://twitter.com/Nanette4CA/status/1090386597604978689,,Representatives,,44.0,3,CA,California,0,4,230,43.0
+32,2019-02-27,representative,,CA,Juan Vargas,John Delaney,D,https://twitter.com/danielmarans/status/1100868238085406720,,Representatives,,51.0,3,CA,California,0,4,230,3.0
+33,2019-02-07,president pro tem,,CA,Toni Atkins,Kamala Harris,D,https://www.politico.com/story/2019/02/07/kamala-harris-2020-california-endorsments-1157651,,State legislative leaders,Senate,,2,CA,California,0,4,230,43.0
+34,2019-01-27,lieutenant governor,,CA,Eleni Kounalakis,Kamala Harris,D,https://twitter.com/EleniForCA/status/1089628133228109824,19.0,Statewide officeholders,,,2,CA,California,0,4,230,43.0
+35,2019-02-26,secretary of state,,CA,Alex Padilla,Kamala Harris,D,https://www.politico.com/amp/story/2019/02/26/kamala-harris-california-1186389,20.0,Statewide officeholders,,,2,CA,California,0,4,230,43.0
+36,2019-01-27,state treasurer,,CA,Fiona Ma,Kamala Harris,D,https://twitter.com/fionama/status/1089623289872343040,22.0,Statewide officeholders,,,2,CA,California,0,4,230,43.0
+37,2019-02-26,insurance commissioner,,CA,Ricardo Lara,Kamala Harris,D,https://www.politico.com/amp/story/2019/02/26/kamala-harris-california-1186389,24.0,Statewide officeholders,,,2,CA,California,0,4,230,43.0
+38,2019-02-26,superintendent of public instruction,,CA,Tony Thurmond,Kamala Harris,D,https://www.politico.com/amp/story/2019/02/26/kamala-harris-california-1186389,25.0,Statewide officeholders,,,2,CA,California,0,4,230,43.0
+39,2019-01-21,DNC member,,CA,Laphonza Butler,Kamala Harris,D,https://www.politico.com/states/california/story/2019/01/21/kamala-harris-launches-campaign-for-president-804259,,DNC members,,,1,CA,California,0,4,230,43.0
+40,2019-02-06,DNC member,,CA,Bob Mulholland,Kamala Harris,D,https://kfdm.com/news/nation-world/warren-struggles-to-move-past-native-american-heritage-flap,,DNC members,,,1,CA,California,0,4,230,43.0
+41,,speaker of the House,,CA,Nancy Pelosi,,D,,,Current party leaders,,,10,CA,California,0,4,230,0.0
+42,,mayor,Los Angeles,CA,Eric Garcetti,,D,,2.0,Mayors,,,3,CA,California,0,4,230,0.0
+43,,mayor,San Jose,CA,Sam Liccardo,,D,,10.0,Mayors,,,3,CA,California,0,4,230,0.0
+44,,mayor,Sacramento,CA,Darrell Steinberg,,D,,34.0,Mayors,,,3,CA,California,0,4,230,0.0
+45,,mayor,Long Beach,CA,Robert Garcia,,D,,38.0,Mayors,,,3,CA,California,0,4,230,0.0
+46,,mayor,Santa Ana,CA,Miguel A. Pulido,,D,,56.0,Mayors,,,3,CA,California,0,4,230,0.0
+47,,mayor,Stockton,CA,Michael D. Tubbs,,D,,58.0,Mayors,,,3,CA,California,0,4,230,0.0
+48,,mayor,Riverside,CA,Rusty Bailey,,,,64.0,Mayors,,,3,CA,California,0,4,230,0.0
+49,,representative,,CA,Jared Huffman,,D,,,Representatives,,2.0,3,CA,California,0,4,230,0.0
+50,,representative,,CA,John Garamendi,,D,,,Representatives,,3.0,3,CA,California,0,4,230,0.0
+51,,representative,,CA,Mike Thompson,,D,,,Representatives,,5.0,3,CA,California,0,4,230,0.0
+52,,representative,,CA,Doris O. Matsui,,D,,,Representatives,,6.0,3,CA,California,0,4,230,0.0
+53,,representative,,CA,Ami Bera,,D,,,Representatives,,7.0,3,CA,California,0,4,230,0.0
+54,,representative,,CA,Jerry McNerney,,D,,,Representatives,,9.0,3,CA,California,0,4,230,0.0
+55,,representative,,CA,Josh Harder,,D,,,Representatives,,10.0,3,CA,California,0,4,230,0.0
+56,,representative,,CA,Mark DeSaulnier,,D,,,Representatives,,11.0,3,CA,California,0,4,230,0.0
+57,,representative,,CA,Jackie Speier,,D,,,Representatives,,14.0,3,CA,California,0,4,230,0.0
+58,,representative,,CA,Eric Swalwell,,D,,,Representatives,,15.0,3,CA,California,0,4,230,0.0
+59,,representative,,CA,Jim Costa,,D,,,Representatives,,16.0,3,CA,California,0,4,230,0.0
+60,,representative,,CA,Anna G. Eshoo,,D,,,Representatives,,18.0,3,CA,California,0,4,230,0.0
+61,,representative,,CA,Zoe Lofgren,,D,,,Representatives,,19.0,3,CA,California,0,4,230,0.0
+62,,representative,,CA,Jimmy Panetta,,D,,,Representatives,,20.0,3,CA,California,0,4,230,0.0
+63,,representative,,CA,TJ Cox,,D,,,Representatives,,21.0,3,CA,California,0,4,230,0.0
+64,,representative,,CA,Salud Carbajal,,D,,,Representatives,,24.0,3,CA,California,0,4,230,0.0
+65,,representative,,CA,Judy Chu,,D,,,Representatives,,27.0,3,CA,California,0,4,230,0.0
+66,,representative,,CA,Adam Schiff,,D,,,Representatives,,28.0,3,CA,California,0,4,230,0.0
+67,,representative,,CA,Tony Cárdenas,,D,,,Representatives,,29.0,3,CA,California,0,4,230,0.0
+68,,representative,,CA,Brad Sherman,,D,,,Representatives,,30.0,3,CA,California,0,4,230,0.0
+69,,representative,,CA,Pete Aguilar,,D,,,Representatives,,31.0,3,CA,California,0,4,230,0.0
+70,,representative,,CA,Grace Napolitano,,D,,,Representatives,,32.0,3,CA,California,0,4,230,0.0
+71,,representative,,CA,Jimmy Gomez,,D,,,Representatives,,34.0,3,CA,California,0,4,230,0.0
+72,,representative,,CA,Norma Torres,,D,,,Representatives,,35.0,3,CA,California,0,4,230,0.0
+73,,representative,,CA,Raul Ruiz,,D,,,Representatives,,36.0,3,CA,California,0,4,230,0.0
+74,,representative,,CA,Karen Bass,,D,,,Representatives,,37.0,3,CA,California,0,4,230,0.0
+75,,representative,,CA,Linda Sánchez,,D,,,Representatives,,38.0,3,CA,California,0,4,230,0.0
+76,,representative,,CA,Gil Cisneros,,D,,,Representatives,,39.0,3,CA,California,0,4,230,0.0
+77,,representative,,CA,Lucille Roybal-Allard,,D,,,Representatives,,40.0,3,CA,California,0,4,230,0.0
+78,,representative,,CA,Mark Takano,,D,,,Representatives,,41.0,3,CA,California,0,4,230,0.0
+79,,representative,,CA,Maxine Waters,,D,,,Representatives,,43.0,3,CA,California,0,4,230,0.0
+80,,representative,,CA,Katie Porter,,D,,,Representatives,,45.0,3,CA,California,0,4,230,0.0
+81,,representative,,CA,J. Luis Correa,,D,,,Representatives,,46.0,3,CA,California,0,4,230,0.0
+82,,representative,,CA,Alan Lowenthal,,D,,,Representatives,,47.0,3,CA,California,0,4,230,0.0
+83,,representative,,CA,Harley Rouda,,D,,,Representatives,,48.0,3,CA,California,0,4,230,0.0
+84,,representative,,CA,Mike Levin,,D,,,Representatives,,49.0,3,CA,California,0,4,230,0.0
+85,,representative,,CA,Scott Peters,,D,,,Representatives,,52.0,3,CA,California,0,4,230,0.0
+86,,representative,,CA,Susan Davis,,D,,,Representatives,,53.0,3,CA,California,0,4,230,0.0
+87,,speaker,,CA,Anthony Rendon,,D,,,State legislative leaders,House,,2,CA,California,0,4,230,0.0
+88,,attorney general,,CA,Xavier Becerra,,D,,21.0,Statewide officeholders,,,2,CA,California,0,4,230,0.0
+89,,state controller,,CA,Betty Yee,,D,,23.0,Statewide officeholders,,,2,CA,California,0,4,230,0.0
+90,,DNC member,,CA,Steven K. Alari,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+91,,DNC member,,CA,Becca Doten,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+92,,DNC member,,CA,Jesse L. Durfee,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+93,,DNC member,,CA,Mary Ellen Early,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+94,,DNC member,,CA,Maria Echaveste,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+95,,DNC member,,CA,Alice A. Huffman,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+96,,DNC member,,CA,Aleita J. Huguenin,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+97,,DNC member,,CA,Lorna M. Johnson,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+98,,DNC member,,CA,Michael Kapp,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+99,,DNC member,,CA,Andrew Lachman,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+100,,DNC member,,CA,Otto O. Lee,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+101,,DNC member,,CA,Sandra M. Lowe,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+102,,DNC member,,CA,Kerman Maddox,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+103,,DNC member,,CA,Christine Pelosi,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+104,,DNC member,,CA,John A. Perez,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+105,,DNC member,,CA,Melahat Rafiei,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+106,,DNC member,,CA,Rion J. Ramirez,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+107,,DNC member,,CA,Alexandra Gallardo Rooker,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+108,,DNC member,,CA,Susie A. Shannon,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+109,,DNC member,,CA,Garry S. Shay,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+110,,DNC member,,CA,Keith Umemoto,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+111,,DNC member,,CA,Amy Elaine Wakeland,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+112,,DNC member,,CA,Rosalind Wyman,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+113,,DNC member,,CA,Laurence S. Zakson,,D,,,DNC members,,,1,CA,California,0,4,230,0.0
+114,2019-02-01,governor,,NJ,Phil Murphy,Cory Booker,D,https://newjerseyglobe.com/fr/murphy-endorses-booker-presidential-bid/,,Governors,,,8,NJ,New Jersey,8,3,60,54.0
+115,2019-02-01,senator,,NJ,Robert Menendez,Cory Booker,D,https://twitter.com/BobMenendezNJ/status/1091391811040567297,,Senators,,,6,NJ,New Jersey,8,3,60,54.0
+116,2019-02-21,representative,,NJ,Donald Norcross,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,1.0,3,NJ,New Jersey,8,3,60,54.0
+117,2019-02-21,representative,,NJ,Jeff Van Drew,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,2.0,3,NJ,New Jersey,8,3,60,54.0
+118,2019-02-21,representative,,NJ,Andy Kim,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,3.0,3,NJ,New Jersey,8,3,60,54.0
+119,2019-02-21,representative,,NJ,Josh Gottheimer,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,5.0,3,NJ,New Jersey,8,3,60,54.0
+120,2019-02-21,representative,,NJ,Frank Pallone Jr.,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,6.0,3,NJ,New Jersey,8,3,60,54.0
+121,2019-02-21,representative,,NJ,Tom Malinowski,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,7.0,3,NJ,New Jersey,8,3,60,54.0
+122,2019-02-21,representative,,NJ,Albio Sires,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,8.0,3,NJ,New Jersey,8,3,60,54.0
+123,2019-02-21,representative,,NJ,Bill Pascrell Jr.,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,9.0,3,NJ,New Jersey,8,3,60,54.0
+124,2019-02-21,representative,,NJ,Donald Payne Jr.,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,10.0,3,NJ,New Jersey,8,3,60,54.0
+125,2019-02-21,representative,,NJ,Mikie Sherrill,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,11.0,3,NJ,New Jersey,8,3,60,54.0
+126,2019-02-21,representative,,NJ,Bonnie Watson Coleman,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,Representatives,,12.0,3,NJ,New Jersey,8,3,60,54.0
+127,2019-02-21,speaker,,NJ,Craig Coughlin,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,State legislative leaders,General Assembly,,2,NJ,New Jersey,8,3,60,54.0
+128,2019-02-21,president,,NJ,Stephen Sweeney,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,State legislative leaders,Senate,,2,NJ,New Jersey,8,3,60,54.0
+129,2019-02-21,lieutenant governor,,NJ,Sheila Oliver,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,134.0,Statewide officeholders,,,2,NJ,New Jersey,8,3,60,54.0
+130,2019-02-21,DNC member,,NJ,John Currie,Cory Booker,D,https://medium.com/@corybooker/50-nj-democrats-endorse-cory-booker-for-president-9eefb60c72d2,,DNC members,,,1,NJ,New Jersey,8,3,60,54.0
+131,,DNC member,,NJ,Tonio Burgos,,D,,,DNC members,,,1,NJ,New Jersey,8,3,60,0.0
+132,,DNC member,,NJ,Bernadette P. McPherson Esq.,,D,,,DNC members,,,1,NJ,New Jersey,8,3,60,0.0
+133,,DNC member,,NJ,John Graham,,D,,,DNC members,,,1,NJ,New Jersey,8,3,60,0.0
+134,,DNC member,,NJ,Marcia Marley,,D,,,DNC members,,,1,NJ,New Jersey,8,3,60,0.0
+135,,DNC member,,NJ,George E. Norcross III,,D,,,DNC members,,,1,NJ,New Jersey,8,3,60,0.0
+136,,DNC member,,NJ,Lizette Delgado Polanco,,D,,,DNC members,,,1,NJ,New Jersey,8,3,60,0.0
+137,2019-01-08,senator,,DE,Thomas R. Carper,Joe Biden,D,https://fox61.com/2019/01/08/will-he-or-wont-he-joe-biden-looms-over-the-2020-field/,,Senators,,,6,DE,Delaware,9,4,46,12.0
+138,2019-02-26,senator,,DE,Christopher A. Coons,Joe Biden,D,https://www.breitbart.com/clips/2019/02/26/coons-i-absolutely-will-endorse-biden-if-he-runs/,,Senators,,,6,DE,Delaware,9,4,46,12.0
+139,,governor,,DE,John Carney,,D,,,Governors,,,8,DE,Delaware,9,4,46,0.0
+140,,former House Democratic whip,,DE,Tony Coelho,,D,,,Former party leaders,,,5,DE,Delaware,9,4,46,0.0
+141,,representative,,DE,Lisa Blunt Rochester,,D,,,Representatives,,0.0,3,DE,Delaware,9,4,46,0.0
+142,,president pro tem,,DE,David McBride,,D,,,State legislative leaders,Senate,,2,DE,Delaware,9,4,46,0.0
+143,,speaker,,DE,Peter Schwartzkopf,,D,,,State legislative leaders,House,,2,DE,Delaware,9,4,46,0.0
+144,,lieutenant governor,,DE,Bethany Hall-Long,,D,,35.0,Statewide officeholders,,,2,DE,Delaware,9,4,46,0.0
+145,,attorney general,,DE,Kathy Jennings,,D,,36.0,Statewide officeholders,,,2,DE,Delaware,9,4,46,0.0
+146,,state treasurer,,DE,Colleen Davis,,D,,37.0,Statewide officeholders,,,2,DE,Delaware,9,4,46,0.0
+147,,auditor of accounts,,DE,Kathleen McGuiness,,D,,38.0,Statewide officeholders,,,2,DE,Delaware,9,4,46,0.0
+148,,commissioner of insurance,,DE,Trinidad Navarro,,D,,39.0,Statewide officeholders,,,2,DE,Delaware,9,4,46,0.0
+149,,DNC member,,DE,Kristin Dwyer,,D,,,DNC members,,,1,DE,Delaware,9,4,46,0.0
+150,,DNC member,,DE,Sean Finnigan,,D,,,DNC members,,,1,DE,Delaware,9,4,46,0.0
+151,,DNC member,,DE,Elizabeth D. Maron,,D,,,DNC members,,,1,DE,Delaware,9,4,46,0.0
+152,,DNC member,,DE,Erik Raser-Schramm,,D,,,DNC members,,,1,DE,Delaware,9,4,46,0.0
+153,2019-02-09,senator,,MA,Edward J. Markey,Elizabeth Warren,D,https://www.bostonherald.com/2019/02/09/warren-confirms-2020-presidential-bid/,,Senators,,,6,MA,Massachusetts,9,2,81,17.0
+154,2019-02-08,representative,,MA,James McGovern,Elizabeth Warren,D,https://twitter.com/heatherscope/status/1093944117380419585?s=21,,Representatives,,2.0,3,MA,Massachusetts,9,2,81,17.0
+155,2019-02-09,representative,,MA,Lori Trahan,Elizabeth Warren,D,https://www.bostonherald.com/2019/02/09/warren-confirms-2020-presidential-bid/,,Representatives,,3.0,3,MA,Massachusetts,9,2,81,17.0
+156,2019-02-09,representative,,MA,Joseph P. Kennedy III,Elizabeth Warren,D,https://www.bostonherald.com/2019/02/09/warren-confirms-2020-presidential-bid/,,Representatives,,4.0,3,MA,Massachusetts,9,2,81,17.0
+157,2019-02-09,president,,MA,Karen Spilka,Elizabeth Warren,D,https://www.boston.com/news/politics/2019/02/09/elizabeth-warren-endorsements-2020,,State legislative leaders,Senate,,2,MA,Massachusetts,9,2,81,17.0
+158,,former DNC chair,,MA,Debra DeLee,,D,,,Former party leaders,,,5,MA,Massachusetts,9,2,81,0.0
+159,,former DNC chair,,MA,Steven Grossman,,D,,,Former party leaders,,,5,MA,Massachusetts,9,2,81,0.0
+160,,former DNC chair,,MA,Paul Kirk,,D,,,Former party leaders,,,5,MA,Massachusetts,9,2,81,0.0
+161,,past presidential nominee,,MA,John Kerry,,D,,4.0,Past nominees,,,5,MA,Massachusetts,9,2,81,0.0
+162,,past presidential nominee,,MA,Michael Dukakis,,D,,8.0,Past nominees,,,5,MA,Massachusetts,9,2,81,0.0
+163,,mayor,Boston,MA,Marty Walsh,,D,,20.0,Mayors,,,3,MA,Massachusetts,9,2,81,0.0
+164,,representative,,MA,Richard E. Neal,,D,,,Representatives,,1.0,3,MA,Massachusetts,9,2,81,0.0
+165,,representative,,MA,Katherine Clark,,D,,,Representatives,,5.0,3,MA,Massachusetts,9,2,81,0.0
+166,,representative,,MA,Seth Moulton,,D,,,Representatives,,6.0,3,MA,Massachusetts,9,2,81,0.0
+167,,representative,,MA,Ayanna Pressley,,D,,,Representatives,,7.0,3,MA,Massachusetts,9,2,81,0.0
+168,,representative,,MA,Stephen F. Lynch,,D,,,Representatives,,8.0,3,MA,Massachusetts,9,2,81,0.0
+169,,representative,,MA,William Keating,,D,,,Representatives,,9.0,3,MA,Massachusetts,9,2,81,0.0
+170,,speaker,,MA,Robert DeLeo,,D,,,State legislative leaders,House,,2,MA,Massachusetts,9,2,81,0.0
+171,,secretary of the commonwealth,,MA,Bill Galvin,,D,,96.0,Statewide officeholders,,,2,MA,Massachusetts,9,2,81,0.0
+172,,attorney general,,MA,Maura Healey,,D,,97.0,Statewide officeholders,,,2,MA,Massachusetts,9,2,81,0.0
+173,,state treasurer and receiver-general,,MA,Deborah Goldberg,,D,,98.0,Statewide officeholders,,,2,MA,Massachusetts,9,2,81,0.0
+174,,state auditor,,MA,Suzanne Bump,,D,,99.0,Statewide officeholders,,,2,MA,Massachusetts,9,2,81,0.0
+175,,DNC member,,MA,Gus Bickford,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+176,,DNC member,,MA,Kate Donaghue,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+177,,DNC member,,MA,Elaine C. Kamarck,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+178,,DNC member,,MA,Debra Kozikowski,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+179,,DNC member,,MA,David M. O'Brien,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+180,,DNC member,,MA,Melvin Poindexter,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+181,,DNC member,,MA,James Roosevelt Jr.,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+182,,DNC member,,MA,Susan Thomson,,D,,,DNC members,,,1,MA,Massachusetts,9,2,81,0.0
+183,2019-02-19,senator,,VT,Patrick J. Leahy,Bernie Sanders,D,https://ktiv.com/2019/02/19/the-latest-sanders-calls-2020-bid-a-continuation-of-2016/,,Senators,,,6,VT,Vermont,9,1,32,11.0
+184,2019-02-19,representative,,VT,Peter Welch,Bernie Sanders,D,https://ktiv.com/2019/02/19/the-latest-sanders-calls-2020-bid-a-continuation-of-2016/,,Representatives,,0.0,3,VT,Vermont,9,1,32,11.0
+185,2019-02-19,lieutenant governor,,VT,David Zuckerman,Bernie Sanders,D,https://twitter.com/DaveZuckermanVT/status/1097975870973755392,207.0,Statewide officeholders,,,2,VT,Vermont,9,1,32,11.0
+186,,former DNC chair,,VT,Howard Dean,,D,,,Former party leaders,,,5,VT,Vermont,9,1,32,0.0
+187,,president pro tem,,VT,Tim Ashe,,D,,,State legislative leaders,Senate,,2,VT,Vermont,9,1,32,0.0
+188,,speaker,,VT,Mitzi Johnson,,D,,,State legislative leaders,House,,2,VT,Vermont,9,1,32,0.0
+189,,secretary of state,,VT,Jim Condos,,D,,208.0,Statewide officeholders,,,2,VT,Vermont,9,1,32,0.0
+190,,attorney general,,VT,T.J. Donovan,,D,,209.0,Statewide officeholders,,,2,VT,Vermont,9,1,32,0.0
+191,,state treasurer,,VT,Beth Pearce,,D,,210.0,Statewide officeholders,,,2,VT,Vermont,9,1,32,0.0
+192,,state auditor,,VT,Doug Hoffer,,D,,211.0,Statewide officeholders,,,2,VT,Vermont,9,1,32,0.0
+193,,DNC member,,VT,Terje Anderson,,D,,,DNC members,,,1,VT,Vermont,9,1,32,0.0
+194,,DNC member,,VT,Tim Jerman,,D,,,DNC members,,,1,VT,Vermont,9,1,32,0.0
+195,,DNC member,,VT,Mary M. Sullivan,,D,,,DNC members,,,1,VT,Vermont,9,1,32,0.0
+196,,DNC member,,VT,Tess Taylor,,D,,,DNC members,,,1,VT,Vermont,9,1,32,0.0
+197,2019-03-03,former DNC chair,,PA,Ed Rendell,Amy Klobuchar,D,https://www.nytimes.com/2019/03/03/us/politics/2020-democrats-pennsylvania-.html,,Former party leaders,,,5,PA,Pennsylvania,7,3,75,5.0
+198,2019-02-19,DNC member,,PA,Michael A. Nutter,Michael Bloomberg,D,https://www.politico.com/story/2019/02/19/michael-bloomberg-network-2020-1173605,,DNC members,,,1,PA,Pennsylvania,7,3,75,1.0
+199,,governor,,PA,Tom Wolf,,D,,,Governors,,,8,PA,Pennsylvania,7,3,75,0.0
+200,,senator,,PA,Robert P. Casey Jr.,,D,,,Senators,,,6,PA,Pennsylvania,7,3,75,0.0
+201,,mayor,Philadelphia,PA,James F. Kenney,,D,,6.0,Mayors,,,3,PA,Pennsylvania,7,3,75,0.0
+202,,mayor,Pittsburgh,PA,Bill Peduto,,D,,62.0,Mayors,,,3,PA,Pennsylvania,7,3,75,0.0
+203,,representative,,PA,Brendan Boyle,,D,,,Representatives,,2.0,3,PA,Pennsylvania,7,3,75,0.0
+204,,representative,,PA,Dwight Evans,,D,,,Representatives,,3.0,3,PA,Pennsylvania,7,3,75,0.0
+205,,representative,,PA,Madeleine Dean,,D,,,Representatives,,4.0,3,PA,Pennsylvania,7,3,75,0.0
+206,,representative,,PA,Mary Gay Scanlon,,D,,,Representatives,,5.0,3,PA,Pennsylvania,7,3,75,0.0
+207,,representative,,PA,Chrissy Houlahan,,D,,,Representatives,,6.0,3,PA,Pennsylvania,7,3,75,0.0
+208,,representative,,PA,Susan Wild,,D,,,Representatives,,7.0,3,PA,Pennsylvania,7,3,75,0.0
+209,,representative,,PA,Matt Cartwright,,D,,,Representatives,,8.0,3,PA,Pennsylvania,7,3,75,0.0
+210,,representative,,PA,Conor Lamb,,D,,,Representatives,,17.0,3,PA,Pennsylvania,7,3,75,0.0
+211,,representative,,PA,Mike Doyle,,D,,,Representatives,,18.0,3,PA,Pennsylvania,7,3,75,0.0
+212,,minority leader,,PA,Jay Costa,,D,,,State legislative leaders,Senate,,2,PA,Pennsylvania,7,3,75,0.0
+213,,minority leader,,PA,Frank Dermody,,D,,,State legislative leaders,House,,2,PA,Pennsylvania,7,3,75,0.0
+214,,lieutenant governor,,PA,John Fetterman,,D,,177.0,Statewide officeholders,,,2,PA,Pennsylvania,7,3,75,0.0
+215,,attorney general,,PA,Josh Shapiro,,D,,178.0,Statewide officeholders,,,2,PA,Pennsylvania,7,3,75,0.0
+216,,state treasurer,,PA,Joe Torsella,,D,,179.0,Statewide officeholders,,,2,PA,Pennsylvania,7,3,75,0.0
+217,,auditor general,,PA,Eugene DePasquale,,D,,180.0,Statewide officeholders,,,2,PA,Pennsylvania,7,3,75,0.0
+218,,DNC member,,PA,Rick Bloomingdale,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+219,,DNC member,,PA,Ronald Donatucci,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+220,,DNC member,,PA,Peggy Grove,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+221,,DNC member,,PA,Gerald Lawrence,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+222,,DNC member,,PA,Nancy Patton Mills,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+223,,DNC member,,PA,Ian Murray,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+224,,DNC member,,PA,Evie Rafalko-McNulty,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+225,,DNC member,,PA,Sharif T. Street,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+226,,DNC member,,PA,Marian B. Tasco,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+227,,DNC member,,PA,Sylvia C. Wilson,,D,,,DNC members,,,1,PA,Pennsylvania,7,3,75,0.0
+228,2019-01-12,mayor,San Antonio,TX,Ron Nirenberg,Julian Castro,,https://www.sacurrent.com/the-daily/archives/2019/01/12/former-san-antonio-mayor-julian-castro-launches-2020-presidential-bid-at-west-side-rally,7.0,Mayors,,,3,TX,Texas,3,7,72,9.0
+229,2019-01-12,representative,,TX,Joaquin Castro,Julian Castro,D,https://www.dallasnews.com/news/politics/2019/01/12/julian-castro-former-san-antonio-mayor-hud-boss-become-first-texan-2020-presidential-race,,Representatives,,20.0,3,TX,Texas,3,7,72,9.0
+230,2019-02-19,representative,,TX,Colin Allred,Julian Castro,D,https://twitter.com/ZachMontellaro/status/1097994567050240000,,Representatives,,32.0,3,TX,Texas,3,7,72,9.0
+231,2019-02-20,DNC member,,TX,Emmy Ruiz,Kamala Harris,D,https://www.politico.com/story/2019/02/20/kamala-harris-2020-staff-1176679,,DNC members,,,1,TX,Texas,3,7,72,1.0
+232,,mayor,Houston,TX,Sylvester Turner,,D,,4.0,Mayors,,,3,TX,Texas,3,7,72,0.0
+233,,mayor,Dallas,TX,Mike Rawlings,,D,,9.0,Mayors,,,3,TX,Texas,3,7,72,0.0
+234,,mayor,Austin,TX,Steve Adler,,D,,11.0,Mayors,,,3,TX,Texas,3,7,72,0.0
+235,,representative,,TX,Lizzie Pannill Fletcher,,D,,,Representatives,,7.0,3,TX,Texas,3,7,72,0.0
+236,,representative,,TX,Al Green,,D,,,Representatives,,9.0,3,TX,Texas,3,7,72,0.0
+237,,representative,,TX,Vicente Gonzalez,,D,,,Representatives,,15.0,3,TX,Texas,3,7,72,0.0
+238,,representative,,TX,Veronica Escobar,,D,,,Representatives,,16.0,3,TX,Texas,3,7,72,0.0
+239,,representative,,TX,Sheila Jackson Lee,,D,,,Representatives,,18.0,3,TX,Texas,3,7,72,0.0
+240,,representative,,TX,Henry Cuellar,,D,,,Representatives,,28.0,3,TX,Texas,3,7,72,0.0
+241,,representative,,TX,Sylvia R. Garcia,,D,,,Representatives,,29.0,3,TX,Texas,3,7,72,0.0
+242,,representative,,TX,Eddie Bernice Johnson,,D,,,Representatives,,30.0,3,TX,Texas,3,7,72,0.0
+243,,representative,,TX,Marc Veasey,,D,,,Representatives,,33.0,3,TX,Texas,3,7,72,0.0
+244,,representative,,TX,Filemon Vela,,D,,,Representatives,,34.0,3,TX,Texas,3,7,72,0.0
+245,,representative,,TX,Lloyd Doggett,,D,,,Representatives,,35.0,3,TX,Texas,3,7,72,0.0
+246,,speaker pro tem,,TX,Joe Moody,,D,,,State legislative leaders,House,,2,TX,Texas,3,7,72,0.0
+247,,president pro tem,,TX,Kirk Watson,,D,,,State legislative leaders,Senate,,2,TX,Texas,3,7,72,0.0
+248,,DNC member,,TX,Carla Brailey,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+249,,DNC member,,TX,Yvonne Davis,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+250,,DNC member,,TX,AJ Durrani,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+251,,DNC member,,TX,Gilberto Hinojosa,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+252,,DNC member,,TX,Kat Hoang,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+253,,DNC member,,TX,Glen Maxey,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+254,,DNC member,,TX,Lorraine C. Miller,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+255,,DNC member,,TX,John B. Patrick,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+256,,DNC member,,TX,Hasmit R. Popat,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+257,,DNC member,,TX,Betty Z. Richie,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+258,,DNC member,,TX,Jose R. Rodriguez,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+259,,DNC member,,TX,Dennis D. Speight,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+260,,DNC member,,TX,Jere Talley,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+261,,DNC member,,TX,Senfronia Thompson,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+262,,DNC member,,TX,Celina Vasquez,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+263,,DNC member,,TX,Royce B. West,,D,,,DNC members,,,1,TX,Texas,3,7,72,0.0
+264,2017-07-28,representative,,MD,David Trone,John Delaney,D,https://twitter.com/davidjtrone/status/890985957981401088,,Representatives,,6.0,3,MD,Maryland,8,4,76,3.0
+265,,House majority leader,,MD,Steny Hoyer,,D,,,Current party leaders,,,10,MD,Maryland,8,4,76,0.0
+266,,DNC chair,,MD,Tom Perez,,D,,,Current party leaders,,,10,MD,Maryland,8,4,76,0.0
+267,,senator,,MD,Benjamin L. Cardin,,D,,,Senators,,,6,MD,Maryland,8,4,76,0.0
+268,,senator,,MD,Chris Van Hollen,,D,,,Senators,,,6,MD,Maryland,8,4,76,0.0
+269,,former DNC chair,,MD,Joe Andrew,,D,,,Former party leaders,,,5,MD,Maryland,8,4,76,0.0
+270,,mayor,Baltimore,MD,Catherine E. Pugh,,D,,29.0,Mayors,,,3,MD,Maryland,8,4,76,0.0
+271,,representative,,MD,C. A. Dutch Ruppersberger,,D,,,Representatives,,2.0,3,MD,Maryland,8,4,76,0.0
+272,,representative,,MD,John P. Sarbanes,,D,,,Representatives,,3.0,3,MD,Maryland,8,4,76,0.0
+273,,representative,,MD,Anthony Brown,,D,,,Representatives,,4.0,3,MD,Maryland,8,4,76,0.0
+274,,representative,,MD,Elijah Cummings,,D,,,Representatives,,7.0,3,MD,Maryland,8,4,76,0.0
+275,,representative,,MD,Jamie Raskin,,D,,,Representatives,,8.0,3,MD,Maryland,8,4,76,0.0
+276,,speaker,,MD,Michael Busch,,D,,,State legislative leaders,House,,2,MD,Maryland,8,4,76,0.0
+277,,president,,MD,Mike Miller,,D,,,State legislative leaders,Senate,,2,MD,Maryland,8,4,76,0.0
+278,,attorney general,,MD,Brian Frosh,,D,,93.0,Statewide officeholders,,,2,MD,Maryland,8,4,76,0.0
+279,,state comptroller,,MD,Peter Franchot,,D,,94.0,Statewide officeholders,,,2,MD,Maryland,8,4,76,0.0
+280,,DNC member,,MD,Maya Rockeymoore Cummings,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+281,,DNC member,,MD,Tefere Gebre,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+282,,DNC member,,MD,Bel W. Leong-Hong,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+283,,DNC member,,MD,Yvette W. Lewis,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+284,,DNC member,,MD,Robert Martinez Jr.,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+285,,DNC member,,MD,Cory V. McCray,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+286,,DNC member,,MD,Glenard S. Middleton,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+287,,DNC member,,MD,Gregory Pecoraro,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+288,,DNC member,,MD,Marc Perrone,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+289,,DNC member,,MD,Kenneth Rigmaiden,,D,,,DNC members,,,1,MD,Maryland,8,4,76,0.0
+290,2019-03-01,representative,,WA,Rick Larsen,Jay Inslee,D,https://www.seattlepi.com/local/politics/article/Inslee-Running-president-climate-change-campaign-13656077.php,,Representatives,,2.0,3,WA,Washington,0,2,59,5.0
+291,2019-03-01,attorney general,,WA,Bob Ferguson,Jay Inslee,D,https://www.thestranger.com/slog/2019/03/01/39403537/jay-inslee-announces-his-run-for-president,216.0,Statewide officeholders,,,2,WA,Washington,0,2,59,5.0
+292,,senator,,WA,Maria Cantwell,,D,,,Senators,,,6,WA,Washington,0,2,59,0.0
+293,,senator,,WA,Patty Murray,,D,,,Senators,,,6,WA,Washington,0,2,59,0.0
+294,,mayor,Seattle,WA,Jenny Durkan,,D,,18.0,Mayors,,,3,WA,Washington,0,2,59,0.0
+295,,representative,,WA,Suzan DelBene,,D,,,Representatives,,1.0,3,WA,Washington,0,2,59,0.0
+296,,representative,,WA,Derek Kilmer,,D,,,Representatives,,6.0,3,WA,Washington,0,2,59,0.0
+297,,representative,,WA,Pramila Jayapal,,D,,,Representatives,,7.0,3,WA,Washington,0,2,59,0.0
+298,,representative,,WA,Kim Schrier,,D,,,Representatives,,8.0,3,WA,Washington,0,2,59,0.0
+299,,representative,,WA,Adam Smith,,D,,,Representatives,,9.0,3,WA,Washington,0,2,59,0.0
+300,,representative,,WA,Denny Heck,,D,,,Representatives,,10.0,3,WA,Washington,0,2,59,0.0
+301,,speaker,,WA,Frank Chopp,,D,,,State legislative leaders,House,,2,WA,Washington,0,2,59,0.0
+302,,president pro tem,,WA,Karen Keiser,,D,,,State legislative leaders,Senate,,2,WA,Washington,0,2,59,0.0
+303,,lieutenant governor,,WA,Cyrus Habib,,D,,214.0,Statewide officeholders,,,2,WA,Washington,0,2,59,0.0
+304,,state auditor,,WA,Pat McCarthy,,D,,218.0,Statewide officeholders,,,2,WA,Washington,0,2,59,0.0
+305,,insurance commissioner,,WA,Mike Kreidler,,D,,219.0,Statewide officeholders,,,2,WA,Washington,0,2,59,0.0
+306,,commissioner of public lands,,WA,Hilary Franz,,D,,220.0,Statewide officeholders,,,2,WA,Washington,0,2,59,0.0
+307,,superintendent of public instruction,,WA,Chris Reykdal,,D,,221.0,Statewide officeholders,,,2,WA,Washington,0,2,59,0.0
+308,,DNC member,,WA,Ed S. Cote,,D,,,DNC members,,,1,WA,Washington,0,2,59,0.0
+309,,DNC member,,WA,David Green,,D,,,DNC members,,,1,WA,Washington,0,2,59,0.0
+310,,DNC member,,WA,Juanita G. Luiz,,D,,,DNC members,,,1,WA,Washington,0,2,59,0.0
+311,,DNC member,,WA,Sharon Mast,,D,,,DNC members,,,1,WA,Washington,0,2,59,0.0
+312,,DNC member,,WA,David T. McDonald,,D,,,DNC members,,,1,WA,Washington,0,2,59,0.0
+313,,DNC member,,WA,Nancy E. Monacelli,,D,,,DNC members,,,1,WA,Washington,0,2,59,0.0
+314,,DNC member,,WA,Tina Podlodowski,,D,,,DNC members,,,1,WA,Washington,0,2,59,0.0
+315,2019-02-21,DNC member,,OH,Nina Turner,Bernie Sanders,D,https://www.cleveland.com/politics/2019/02/former-ohio-sen-nina-turner-to-serve-as-co-chair-of-bernie-sanders-campaign.html,,DNC members,,,1,OH,Ohio,6,3,46,1.0
+316,,senator,,OH,Sherrod Brown,,D,,,Senators,,,6,OH,Ohio,6,3,46,0.0
+317,,former DNC chair,,OH,David Wilhelm,,D,,,Former party leaders,,,5,OH,Ohio,6,3,46,0.0
+318,,mayor,Columbus,OH,Andrew Ginther,,D,,14.0,Mayors,,,3,OH,Ohio,6,3,46,0.0
+319,,mayor,Cleveland,OH,Frank G. Jackson,,D,,50.0,Mayors,,,3,OH,Ohio,6,3,46,0.0
+320,,mayor,Cincinnati,OH,John Cranley,,D,,66.0,Mayors,,,3,OH,Ohio,6,3,46,0.0
+321,,representative,,OH,Joyce Beatty,,D,,,Representatives,,3.0,3,OH,Ohio,6,3,46,0.0
+322,,representative,,OH,Marcy Kaptur,,D,,,Representatives,,9.0,3,OH,Ohio,6,3,46,0.0
+323,,representative,,OH,Marcia L. Fudge,,D,,,Representatives,,11.0,3,OH,Ohio,6,3,46,0.0
+324,,representative,,OH,Tim Ryan,,D,,,Representatives,,13.0,3,OH,Ohio,6,3,46,0.0
+325,,minority leader,,OH,Emilia Sykes,,D,,,State legislative leaders,House,,2,OH,Ohio,6,3,46,0.0
+326,,minority leader,,OH,Kenny Yuko,,D,,,State legislative leaders,Senate,,2,OH,Ohio,6,3,46,0.0
+327,,DNC member,,OH,Tim Burga,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+328,,DNC member,,OH,Isabel Framer,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+329,,DNC member,,OH,Rebecca L. Higgins,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+330,,DNC member,,OH,Mark Mallory,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+331,,DNC member,,OH,Ronald L. Malone,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+332,,DNC member,,OH,Valarie J. McCall,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+333,,DNC member,,OH,Rhine McLin,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+334,,DNC member,,OH,David A. Pepper,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+335,,DNC member,,OH,Joe Rugola,,D,,,DNC members,,,1,OH,Ohio,6,3,46,0.0
+336,2019-02-04,DNC member,,SC,Clay N. Middleton,Cory Booker,D,https://www.postandcourier.com/politics/cory-booker-makes-key-campaign-hires-in-south-carolina/article_b4381394-287b-11e9-8c77-8fbeeae31ac7.html,,DNC members,,,1,SC,South Carolina,7,5,29,1.0
+337,,House Democratic whip,,SC,James E. Clyburn,,D,,,Current party leaders,,,10,SC,South Carolina,7,5,29,0.0
+338,,former DNC chair,,SC,Don Fowler,,D,,,Former party leaders,,,5,SC,South Carolina,7,5,29,0.0
+339,,representative,,SC,Joe Cunningham,,D,,,Representatives,,1.0,3,SC,South Carolina,7,5,29,0.0
+340,,minority leader,,SC,J. Todd Rutherford,,D,,,State legislative leaders,House,,2,SC,South Carolina,7,5,29,0.0
+341,,minority leader,,SC,Nikki Setzler,,D,,,State legislative leaders,Senate,,2,SC,South Carolina,7,5,29,0.0
+342,,DNC member,,SC,Gilda Cobb-Hunter,,D,,,DNC members,,,1,SC,South Carolina,7,5,29,0.0
+343,,DNC member,,SC,Don Fowler,,D,,,DNC members,,,1,SC,South Carolina,7,5,29,0.0
+344,,DNC member,,SC,Carol K. Fowler,,D,,,DNC members,,,1,SC,South Carolina,7,5,29,0.0
+345,,DNC member,,SC,Jaime R. Harrison,,D,,,DNC members,,,1,SC,South Carolina,7,5,29,0.0
+346,,DNC member,,SC,Lessie Price,,D,,,DNC members,,,1,SC,South Carolina,7,5,29,0.0
+347,,DNC member,,SC,Travis Robertson Jr.,,D,,,DNC members,,,1,SC,South Carolina,7,5,29,0.0
+348,,Senate Democratic whip,,IL,Richard J. Durbin,,D,,,Current party leaders,,,10,IL,Illinois,5,2,99,0.0
+349,,past president,,IL,Barack Obama,,D,,,Past presidents and vice presidents,,,10,IL,Illinois,5,2,99,0.0
+350,,governor,,IL,J.B. Pritzker,,D,,,Governors,,,8,IL,Illinois,5,2,99,0.0
+351,,senator,,IL,Tammy Duckworth,,D,,,Senators,,,6,IL,Illinois,5,2,99,0.0
+352,,mayor,Chicago,IL,Rahm Emanuel,,D,,3.0,Mayors,,,3,IL,Illinois,5,2,99,0.0
+353,,representative,,IL,Bobby L. Rush,,D,,,Representatives,,1.0,3,IL,Illinois,5,2,99,0.0
+354,,representative,,IL,Robin Kelly,,D,,,Representatives,,2.0,3,IL,Illinois,5,2,99,0.0
+355,,representative,,IL,Daniel Lipinski,,D,,,Representatives,,3.0,3,IL,Illinois,5,2,99,0.0
+356,,representative,,IL,"Jesus ""Chuy"" Garcia",,D,,,Representatives,,4.0,3,IL,Illinois,5,2,99,0.0
+357,,representative,,IL,Mike Quigley,,D,,,Representatives,,5.0,3,IL,Illinois,5,2,99,0.0
+358,,representative,,IL,Sean Casten,,D,,,Representatives,,6.0,3,IL,Illinois,5,2,99,0.0
+359,,representative,,IL,Danny K. Davis,,D,,,Representatives,,7.0,3,IL,Illinois,5,2,99,0.0
+360,,representative,,IL,Raja Krishnamoorthi,,D,,,Representatives,,8.0,3,IL,Illinois,5,2,99,0.0
+361,,representative,,IL,Jan Schakowsky,,D,,,Representatives,,9.0,3,IL,Illinois,5,2,99,0.0
+362,,representative,,IL,Bradley Schneider,,D,,,Representatives,,10.0,3,IL,Illinois,5,2,99,0.0
+363,,representative,,IL,Bill Foster,,D,,,Representatives,,11.0,3,IL,Illinois,5,2,99,0.0
+364,,representative,,IL,Lauren Underwood,,D,,,Representatives,,14.0,3,IL,Illinois,5,2,99,0.0
+365,,representative,,IL,Cheri Bustos,,D,,,Representatives,,17.0,3,IL,Illinois,5,2,99,0.0
+366,,president,,IL,John Cullerton,,D,,,State legislative leaders,Senate,,2,IL,Illinois,5,2,99,0.0
+367,,speaker,,IL,Michael Madigan,,D,,,State legislative leaders,House,,2,IL,Illinois,5,2,99,0.0
+368,,lieutenant governor,,IL,Juliana Stratton,,D,,58.0,Statewide officeholders,,,2,IL,Illinois,5,2,99,0.0
+369,,secretary of state,,IL,Jesse White,,D,,59.0,Statewide officeholders,,,2,IL,Illinois,5,2,99,0.0
+370,,attorney general,,IL,Kwame Raoul,,D,,60.0,Statewide officeholders,,,2,IL,Illinois,5,2,99,0.0
+371,,state treasurer,,IL,Mike Frerichs,,D,,61.0,Statewide officeholders,,,2,IL,Illinois,5,2,99,0.0
+372,,state comptroller,,IL,Susana Mendoza,,D,,62.0,Statewide officeholders,,,2,IL,Illinois,5,2,99,0.0
+373,,DNC member,,IL,Carrie Austin,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+374,,DNC member,,IL,Jerry F. Costello,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+375,,DNC member,,IL,John J. Cullerton,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+376,,DNC member,,IL,Daniel W. Hynes,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+377,,DNC member,,IL,Iris Y. Martinez,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+378,,DNC member,,IL,Jayne Mazzotti,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+379,,DNC member,,IL,Carol Ronen,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+380,,DNC member,,IL,Becky Strezchowski,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+381,,DNC member,,IL,Karen A. Yarbrough,,D,,,DNC members,,,1,IL,Illinois,5,2,99,0.0
+382,,Senate minority leader,,NY,Charles E. Schumer,,D,,,Current party leaders,,,10,NY,New York,8,2,132,0.0
+383,,past president,,NY,Bill Clinton,,D,,,Past presidents and vice presidents,,,10,NY,New York,8,2,132,0.0
+384,,governor,,NY,Andrew Cuomo,,D,,,Governors,,,8,NY,New York,8,2,132,0.0
+385,,former Senate majority leader,,NY,George Mitchell,,D,,,Former party leaders,,,5,NY,New York,8,2,132,0.0
+386,,past presidential nominee,,NY,Hillary Clinton,,D,,1.0,Past nominees,,,5,NY,New York,8,2,132,0.0
+387,,mayor,New York City,NY,Bill de Blasio,,D,,1.0,Mayors,,,3,NY,New York,8,2,132,0.0
+388,,representative,,NY,Thomas Suozzi,,D,,,Representatives,,3.0,3,NY,New York,8,2,132,0.0
+389,,representative,,NY,Kathleen Rice,,D,,,Representatives,,4.0,3,NY,New York,8,2,132,0.0
+390,,representative,,NY,Gregory W. Meeks,,D,,,Representatives,,5.0,3,NY,New York,8,2,132,0.0
+391,,representative,,NY,Grace Meng,,D,,,Representatives,,6.0,3,NY,New York,8,2,132,0.0
+392,,representative,,NY,Nydia M. Velázquez,,D,,,Representatives,,7.0,3,NY,New York,8,2,132,0.0
+393,,representative,,NY,Hakeem Jeffries,,D,,,Representatives,,8.0,3,NY,New York,8,2,132,0.0
+394,,representative,,NY,Yvette D. Clarke,,D,,,Representatives,,9.0,3,NY,New York,8,2,132,0.0
+395,,representative,,NY,Jerrold Nadler,,D,,,Representatives,,10.0,3,NY,New York,8,2,132,0.0
+396,,representative,,NY,Max N. Rose,,D,,,Representatives,,11.0,3,NY,New York,8,2,132,0.0
+397,,representative,,NY,Carolyn Maloney,,D,,,Representatives,,12.0,3,NY,New York,8,2,132,0.0
+398,,representative,,NY,Adriano Espaillat,,D,,,Representatives,,13.0,3,NY,New York,8,2,132,0.0
+399,,representative,,NY,Alexandria Ocasio-Cortez,,D,,,Representatives,,14.0,3,NY,New York,8,2,132,0.0
+400,,representative,,NY,José E. Serrano,,D,,,Representatives,,15.0,3,NY,New York,8,2,132,0.0
+401,,representative,,NY,Eliot Engel,,D,,,Representatives,,16.0,3,NY,New York,8,2,132,0.0
+402,,representative,,NY,Nita Lowey,,D,,,Representatives,,17.0,3,NY,New York,8,2,132,0.0
+403,,representative,,NY,Sean Patrick Maloney,,D,,,Representatives,,18.0,3,NY,New York,8,2,132,0.0
+404,,representative,,NY,Antonio Delgado,,D,,,Representatives,,19.0,3,NY,New York,8,2,132,0.0
+405,,representative,,NY,Paul D. Tonko,,D,,,Representatives,,20.0,3,NY,New York,8,2,132,0.0
+406,,representative,,NY,Anthony Brindisi,,D,,,Representatives,,22.0,3,NY,New York,8,2,132,0.0
+407,,representative,,NY,Joseph D. Morelle,,D,,,Representatives,,25.0,3,NY,New York,8,2,132,0.0
+408,,representative,,NY,Brian Higgins,,D,,,Representatives,,26.0,3,NY,New York,8,2,132,0.0
+409,,speaker,,NY,Carl Heastie,,D,,,State legislative leaders,House,,2,NY,New York,8,2,132,0.0
+410,,president,,NY,Andrea Stewart-Cousins,,D,,,State legislative leaders,Senate,,2,NY,New York,8,2,132,0.0
+411,,lieutenant governor,,NY,Kathy Hochul,,D,,141.0,Statewide officeholders,,,2,NY,New York,8,2,132,0.0
+412,,attorney general,,NY,Letitia James,,D,,142.0,Statewide officeholders,,,2,NY,New York,8,2,132,0.0
+413,,state comptroller,,NY,Thomas DiNapoli,,D,,143.0,Statewide officeholders,,,2,NY,New York,8,2,132,0.0
+414,,DNC member,,NY,Stuart H. Appelbaum,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+415,,DNC member,,NY,Byron Brown,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+416,,DNC member,,NY,Maria Cuomo Cole,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+417,,DNC member,,NY,Vivian Cook,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+418,,DNC member,,NY,Jennifer Cunningham,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+419,,DNC member,,NY,Hazel Duke,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+420,,DNC member,,NY,Hector Figueroa,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+421,,DNC member,,NY,Emily Giske,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+422,,DNC member,,NY,Carl Heastie,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+423,,DNC member,,NY,Jay S. Jacobs,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+424,,DNC member,,NY,Charlie King,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+425,,DNC member,,NY,Christopher Lowe,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+426,,DNC member,,NY,Ai-Jen Poo,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+427,,DNC member,,NY,Christine Quinn,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+428,,DNC member,,NY,Michael Reich,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+429,,DNC member,,NY,Gerard J. Sweeney,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+430,,DNC member,,NY,Randi Weingarten,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+431,,DNC member,,NY,Robert Zimmerman,,D,,,DNC members,,,1,NY,New York,8,2,132,0.0
+432,,past president,,GA,Jimmy Carter,,D,,,Past presidents and vice presidents,,,10,GA,Georgia,7,6,40,0.0
+433,,mayor,Atlanta,GA,Keisha Lance Bottoms,,D,,37.0,Mayors,,,3,GA,Georgia,7,6,40,0.0
+434,,representative,,GA,Sanford D. Bishop Jr.,,D,,,Representatives,,2.0,3,GA,Georgia,7,6,40,0.0
+435,,representative,,GA,Hank Johnson,,D,,,Representatives,,4.0,3,GA,Georgia,7,6,40,0.0
+436,,representative,,GA,John Lewis,,D,,,Representatives,,5.0,3,GA,Georgia,7,6,40,0.0
+437,,representative,,GA,Lucy McBath,,D,,,Representatives,,6.0,3,GA,Georgia,7,6,40,0.0
+438,,representative,,GA,David Scott,,D,,,Representatives,,13.0,3,GA,Georgia,7,6,40,0.0
+439,,minority leader,,GA,Steve Henson,,D,,,State legislative leaders,Senate,,2,GA,Georgia,7,6,40,0.0
+440,,minority leader,,GA,Robert Trammell,,D,,,State legislative leaders,House,,2,GA,Georgia,7,6,40,0.0
+441,,DNC member,,GA,Wendy Davis,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+442,,DNC member,,GA,Daniel J. Halpern,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+443,,DNC member,,GA,Sheikh M. Rahman,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+444,,DNC member,,GA,Richard A. Ray,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+445,,DNC member,,GA,Sally S. Rosser,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+446,,DNC member,,GA,Pamela Stephenson,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+447,,DNC member,,GA,Ted Terry,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+448,,DNC member,,GA,Nikema Williams,,D,,,DNC members,,,1,GA,Georgia,7,6,40,0.0
+449,,past vice president,,TN,Al Gore,,D,,,Past presidents and vice presidents,,,10,TN,Tennessee,5,5,32,0.0
+450,,mayor,Nashville,TN,David Briley,,D,,23.0,Mayors,,,3,TN,Tennessee,5,5,32,0.0
+451,,mayor,Memphis,TN,Jim Strickland,,D,,24.0,Mayors,,,3,TN,Tennessee,5,5,32,0.0
+452,,representative,,TN,Jim Cooper,,D,,,Representatives,,5.0,3,TN,Tennessee,5,5,32,0.0
+453,,representative,,TN,Steve Cohen,,D,,,Representatives,,9.0,3,TN,Tennessee,5,5,32,0.0
+454,,minority leader,,TN,Karen Camper,,D,,,State legislative leaders,House,,2,TN,Tennessee,5,5,32,0.0
+455,,minority leader,,TN,Jeff Yarbro,,D,,,State legislative leaders,Senate,,2,TN,Tennessee,5,5,32,0.0
+456,,DNC member,,TN,Gale Jones Carson,,D,,,DNC members,,,1,TN,Tennessee,5,5,32,0.0
+457,,DNC member,,TN,Will T. Cheek,,D,,,DNC members,,,1,TN,Tennessee,5,5,32,0.0
+458,,DNC member,,TN,Robert H. Cowan,,D,,,DNC members,,,1,TN,Tennessee,5,5,32,0.0
+459,,DNC member,,TN,Mary Mancini,,D,,,DNC members,,,1,TN,Tennessee,5,5,32,0.0
+460,,DNC member,,TN,William Owen,,D,,,DNC members,,,1,TN,Tennessee,5,5,32,0.0
+461,,DNC member,,TN,Marisa Richmond,,D,,,DNC members,,,1,TN,Tennessee,5,5,32,0.0
+462,,governor,,CO,Jared Polis,,D,,,Governors,,,8,CO,Colorado,2,4,51,0.0
+463,,senator,,CO,Michael F. Bennet,,D,,,Senators,,,6,CO,Colorado,2,4,51,0.0
+464,,former DNC chair,,CO,Roy Romer,,D,,,Former party leaders,,,5,CO,Colorado,2,4,51,0.0
+465,,mayor,Denver,CO,Michael Hancock,,D,,19.0,Mayors,,,3,CO,Colorado,2,4,51,0.0
+466,,representative,,CO,Diana DeGette,,D,,,Representatives,,1.0,3,CO,Colorado,2,4,51,0.0
+467,,representative,,CO,Joe Neguse,,D,,,Representatives,,2.0,3,CO,Colorado,2,4,51,0.0
+468,,representative,,CO,Jason Crow,,D,,,Representatives,,6.0,3,CO,Colorado,2,4,51,0.0
+469,,representative,,CO,Ed Perlmutter,,D,,,Representatives,,7.0,3,CO,Colorado,2,4,51,0.0
+470,,speaker,,CO,KC Becker,,D,,,State legislative leaders,House,,2,CO,Colorado,2,4,51,0.0
+471,,president,,CO,Leroy Garcia,,D,,,State legislative leaders,Senate,,2,CO,Colorado,2,4,51,0.0
+472,,lieutenant governor,,CO,Dianne Primavera,,D,,26.0,Statewide officeholders,,,2,CO,Colorado,2,4,51,0.0
+473,,secretary of state,,CO,Jena Griswold,,D,,27.0,Statewide officeholders,,,2,CO,Colorado,2,4,51,0.0
+474,,attorney general,,CO,Phil Weiser,,D,,28.0,Statewide officeholders,,,2,CO,Colorado,2,4,51,0.0
+475,,state treasurer,,CO,Dave Young,,D,,29.0,Statewide officeholders,,,2,CO,Colorado,2,4,51,0.0
+476,,DNC member,,CO,Morgan Carroll,,D,,,DNC members,,,1,CO,Colorado,2,4,51,0.0
+477,,DNC member,,CO,Howard Chou,,D,,,DNC members,,,1,CO,Colorado,2,4,51,0.0
+478,,DNC member,,CO,Michael F. Hamrick,,D,,,DNC members,,,1,CO,Colorado,2,4,51,0.0
+479,,DNC member,,CO,Jeri D. Shepherd,,D,,,DNC members,,,1,CO,Colorado,2,4,51,0.0
+480,,DNC member,,CO,Terry L. Tucker,,D,,,DNC members,,,1,CO,Colorado,2,4,51,0.0
+481,,governor,,CT,Ned Lamont,,D,,,Governors,,,8,CT,Connecticut,9,3,63,0.0
+482,,senator,,CT,Richard Blumenthal,,D,,,Senators,,,6,CT,Connecticut,9,3,63,0.0
+483,,senator,,CT,Christopher Murphy,,D,,,Senators,,,6,CT,Connecticut,9,3,63,0.0
+484,,former DNC chair,,CT,Chris Dodd,,D,,,Former party leaders,,,5,CT,Connecticut,9,3,63,0.0
+485,,past vice-presidential nominee,,CT,Joe Lieberman,,D,,6.0,Past nominees,,,5,CT,Connecticut,9,3,63,0.0
+486,,representative,,CT,John B. Larson,,D,,,Representatives,,1.0,3,CT,Connecticut,9,3,63,0.0
+487,,representative,,CT,Joe Courtney,,D,,,Representatives,,2.0,3,CT,Connecticut,9,3,63,0.0
+488,,representative,,CT,Rosa L. DeLauro,,D,,,Representatives,,3.0,3,CT,Connecticut,9,3,63,0.0
+489,,representative,,CT,Jim Himes,,D,,,Representatives,,4.0,3,CT,Connecticut,9,3,63,0.0
+490,,representative,,CT,Jahana Hayes,,D,,,Representatives,,5.0,3,CT,Connecticut,9,3,63,0.0
+491,,speaker,,CT,Joe Aresimowicz,,D,,,State legislative leaders,House,,2,CT,Connecticut,9,3,63,0.0
+492,,president pro tem,,CT,Martin Looney,,D,,,State legislative leaders,Senate,,2,CT,Connecticut,9,3,63,0.0
+493,,lieutenant governor,,CT,Susan Bysiewicz,,D,,30.0,Statewide officeholders,,,2,CT,Connecticut,9,3,63,0.0
+494,,secretary of state,,CT,Denise Merrill,,D,,31.0,Statewide officeholders,,,2,CT,Connecticut,9,3,63,0.0
+495,,state treasurer,,CT,Shawn Wooden,,D,,32.0,Statewide officeholders,,,2,CT,Connecticut,9,3,63,0.0
+496,,attorney general,,CT,William Tong,,D,,33.0,Statewide officeholders,,,2,CT,Connecticut,9,3,63,0.0
+497,,state comptroller,,CT,Kevin Lembo,,D,,34.0,Statewide officeholders,,,2,CT,Connecticut,9,3,63,0.0
+498,,DNC member,,CT,Nancy DiNardo,,D,,,DNC members,,,1,CT,Connecticut,9,3,63,0.0
+499,,DNC member,,CT,John W. Olsen,,D,,,DNC members,,,1,CT,Connecticut,9,3,63,0.0
+500,,DNC member,,CT,Erick Russell,,D,,,DNC members,,,1,CT,Connecticut,9,3,63,0.0
+501,,DNC member,,CT,Nancy Wyman,,D,,,DNC members,,,1,CT,Connecticut,9,3,63,0.0
+502,,governor,,HI,David Ige,,D,,,Governors,,,8,HI,Hawaii,0,7,36,0.0
+503,,senator,,HI,Mazie K. Hirono,,D,,,Senators,,,6,HI,Hawaii,0,7,36,0.0
+504,,senator,,HI,Brian Schatz,,D,,,Senators,,,6,HI,Hawaii,0,7,36,0.0
+505,,mayor,Honolulu,HI,Kirk Caldwell,,D,,54.0,Mayors,,,3,HI,Hawaii,0,7,36,0.0
+506,,representative,,HI,Ed Case,,D,,,Representatives,,1.0,3,HI,Hawaii,0,7,36,0.0
+507,,president,,HI,Ron Kouchi,,D,,,State legislative leaders,Senate,,2,HI,Hawaii,0,7,36,0.0
+508,,speaker,,HI,Scott Saiki,,D,,,State legislative leaders,House,,2,HI,Hawaii,0,7,36,0.0
+509,,lieutenant governor,,HI,Josh Green,,D,,51.0,Statewide officeholders,,,2,HI,Hawaii,0,7,36,0.0
+510,,DNC member,,HI,Bart E. Dame,,D,,,DNC members,,,1,HI,Hawaii,0,7,36,0.0
+511,,DNC member,,HI,Gary Hooser,,D,,,DNC members,,,1,HI,Hawaii,0,7,36,0.0
+512,,DNC member,,HI,Keali'i Lopez,,D,,,DNC members,,,1,HI,Hawaii,0,7,36,0.0
+513,,DNC member,,HI,Kathleen G. Stanley,,D,,,DNC members,,,1,HI,Hawaii,0,7,36,0.0
+514,,governor,,LA,John Bel Edwards,,D,,,Governors,,,8,LA,Louisiana,4,6,22,0.0
+515,,mayor,New Orleans,LA,LaToya Cantrell,,D,,48.0,Mayors,,,3,LA,Louisiana,4,6,22,0.0
+516,,representative,,LA,Cedric Richmond,,D,,,Representatives,,2.0,3,LA,Louisiana,4,6,22,0.0
+517,,Democratic caucus chairman,,LA,Troy Carter Sr.,,D,,,State legislative leaders,Senate,,2,LA,Louisiana,4,6,22,0.0
+518,,speaker pro tem,,LA,Walt Leger III,,D,,,State legislative leaders,House,,2,LA,Louisiana,4,6,22,0.0
+519,,DNC member,,LA,Deborah J. Langhoff,,D,,,DNC members,,,1,LA,Louisiana,4,6,22,0.0
+520,,DNC member,,LA,Michael McHale,,D,,,DNC members,,,1,LA,Louisiana,4,6,22,0.0
+521,,DNC member,,LA,Arthur Morrell,,D,,,DNC members,,,1,LA,Louisiana,4,6,22,0.0
+522,,DNC member,,LA,Karen Carter Peterson,,D,,,DNC members,,,1,LA,Louisiana,4,6,22,0.0
+523,,governor,,ME,Janet Mills,,D,,,Governors,,,8,ME,Maine,10,0,27,0.0
+524,,senator,,ME,Angus S. King Jr.,,I,,,Senators,,,6,ME,Maine,10,0,27,0.0
+525,,representative,,ME,Chellie Pingree,,D,,,Representatives,,1.0,3,ME,Maine,10,0,27,0.0
+526,,representative,,ME,Jared Golden,,D,,,Representatives,,2.0,3,ME,Maine,10,0,27,0.0
+527,,speaker,,ME,Sara Gideon,,D,,,State legislative leaders,House,,2,ME,Maine,10,0,27,0.0
+528,,president,,ME,Troy Jackson,,D,,,State legislative leaders,Senate,,2,ME,Maine,10,0,27,0.0
+529,,DNC member,,ME,Diane M. Denk,,D,,,DNC members,,,1,ME,Maine,10,0,27,0.0
+530,,DNC member,,ME,Erik Gundersen,,D,,,DNC members,,,1,ME,Maine,10,0,27,0.0
+531,,DNC member,,ME,Kathleen Marra,,D,,,DNC members,,,1,ME,Maine,10,0,27,0.0
+532,,governor,,MI,Gretchen Whitmer,,D,,,Governors,,,8,MI,Michigan,6,2,69,0.0
+533,,senator,,MI,Gary C. Peters,,D,,,Senators,,,6,MI,Michigan,6,2,69,0.0
+534,,senator,,MI,Debbie Stabenow,,D,,,Senators,,,6,MI,Michigan,6,2,69,0.0
+535,,former House Democratic whip,,MI,David Bonior,,D,,,Former party leaders,,,5,MI,Michigan,6,2,69,0.0
+536,,mayor,Detroit,MI,Mike Duggan,,D,,22.0,Mayors,,,3,MI,Michigan,6,2,69,0.0
+537,,representative,,MI,Daniel Kildee,,D,,,Representatives,,5.0,3,MI,Michigan,6,2,69,0.0
+538,,representative,,MI,Elissa Slotkin,,D,,,Representatives,,8.0,3,MI,Michigan,6,2,69,0.0
+539,,representative,,MI,Andy Levin,,D,,,Representatives,,9.0,3,MI,Michigan,6,2,69,0.0
+540,,representative,,MI,Haley Stevens,,D,,,Representatives,,11.0,3,MI,Michigan,6,2,69,0.0
+541,,representative,,MI,Debbie Dingell,,D,,,Representatives,,12.0,3,MI,Michigan,6,2,69,0.0
+542,,representative,,MI,Rashida Tlaib,,D,,,Representatives,,13.0,3,MI,Michigan,6,2,69,0.0
+543,,representative,,MI,Brenda Lawrence,,D,,,Representatives,,14.0,3,MI,Michigan,6,2,69,0.0
+544,,minority leader,,MI,Jim Ananich,,D,,,State legislative leaders,Senate,,2,MI,Michigan,6,2,69,0.0
+545,,minority leader,,MI,Christine Greig,,D,,,State legislative leaders,House,,2,MI,Michigan,6,2,69,0.0
+546,,lieutenant governor,,MI,Garlin Gilchrist,,D,,100.0,Statewide officeholders,,,2,MI,Michigan,6,2,69,0.0
+547,,secretary of state,,MI,Jocelyn Benson,,D,,101.0,Statewide officeholders,,,2,MI,Michigan,6,2,69,0.0
+548,,attorney general,,MI,Dana Nessel,,D,,102.0,Statewide officeholders,,,2,MI,Michigan,6,2,69,0.0
+549,,DNC member,,MI,Lavora R. Barnes,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+550,,DNC member,,MI,Michelle Deatrick,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+551,,DNC member,,MI,Shauna Ryder Diggs,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+552,,DNC member,,MI,Cindy Estrada,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+553,,DNC member,,MI,Barry J. Goodman,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+554,,DNC member,,MI,Paula Herbart,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+555,,DNC member,,MI,Norwood Jewell,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+556,,DNC member,,MI,Mark LaChey,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+557,,DNC member,,MI,Daryl Newman,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+558,,DNC member,,MI,Alexis Wiley,,D,,,DNC members,,,1,MI,Michigan,6,2,69,0.0
+559,,governor,,MT,Steve Bullock,,D,,,Governors,,,8,MT,Montana,2,2,24,0.0
+560,,senator,,MT,Jon Tester,,D,,,Senators,,,6,MT,Montana,2,2,24,0.0
+561,,minority leader,,MT,Casey Schreiner,,D,,,State legislative leaders,House,,2,MT,Montana,2,2,24,0.0
+562,,minority leader,,MT,Jon Sesso,,D,,,State legislative leaders,Senate,,2,MT,Montana,2,2,24,0.0
+563,,lieutenant governor,,MT,Mike Cooney,,D,,119.0,Statewide officeholders,,,2,MT,Montana,2,2,24,0.0
+564,,DNC member,,MT,Bryce Bennett,,D,,,DNC members,,,1,MT,Montana,2,2,24,0.0
+565,,DNC member,,MT,Jean Lemire Dahlman,,D,,,DNC members,,,1,MT,Montana,2,2,24,0.0
+566,,DNC member,,MT,Jorge Quintana,,D,,,DNC members,,,1,MT,Montana,2,2,24,0.0
+567,,DNC member,,MT,Mary Sexton,,D,,,DNC members,,,1,MT,Montana,2,2,24,0.0
+568,,governor,,NC,Roy Cooper,,D,,,Governors,,,8,NC,North Carolina,6,5,45,0.0
+569,,past vice-presidential nominee,,NC,John Edwards,,D,,5.0,Past nominees,,,5,NC,North Carolina,6,5,45,0.0
+570,,mayor,Charlotte,NC,Vi Lyles,,D,,17.0,Mayors,,,3,NC,North Carolina,6,5,45,0.0
+571,,mayor,Raleigh,NC,Nancy McFarlane,,D,,40.0,Mayors,,,3,NC,North Carolina,6,5,45,0.0
+572,,representative,,NC,G.K. Butterfield,,D,,,Representatives,,1.0,3,NC,North Carolina,6,5,45,0.0
+573,,representative,,NC,David Price,,D,,,Representatives,,4.0,3,NC,North Carolina,6,5,45,0.0
+574,,representative,,NC,Alma Adams,,D,,,Representatives,,12.0,3,NC,North Carolina,6,5,45,0.0
+575,,minority leader,,NC,Dan Blue,,D,,,State legislative leaders,Senate,,2,NC,North Carolina,6,5,45,0.0
+576,,minority leader,,NC,Darren Jackson,,D,,,State legislative leaders,House,,2,NC,North Carolina,6,5,45,0.0
+577,,secretary of state,,NC,Elaine Marshall,,D,,145.0,Statewide officeholders,,,2,NC,North Carolina,6,5,45,0.0
+578,,attorney general,,NC,Josh Stein,,D,,146.0,Statewide officeholders,,,2,NC,North Carolina,6,5,45,0.0
+579,,state auditor,,NC,Beth Wood,,D,,148.0,Statewide officeholders,,,2,NC,North Carolina,6,5,45,0.0
+580,,DNC member,,NC,Denise D. Adams,,D,,,DNC members,,,1,NC,North Carolina,6,5,45,0.0
+581,,DNC member,,NC,Wayne Goodwin,,D,,,DNC members,,,1,NC,North Carolina,6,5,45,0.0
+582,,DNC member,,NC,Shelia A. Huggins,,D,,,DNC members,,,1,NC,North Carolina,6,5,45,0.0
+583,,DNC member,,NC,Ray McKinnon,,D,,,DNC members,,,1,NC,North Carolina,6,5,45,0.0
+584,,DNC member,,NC,Cliff Moone,,D,,,DNC members,,,1,NC,North Carolina,6,5,45,0.0
+585,,DNC member,,NC,Bobbie Richardson,,D,,,DNC members,,,1,NC,North Carolina,6,5,45,0.0
+586,,DNC member,,NC,John R. Verdejo,,D,,,DNC members,,,1,NC,North Carolina,6,5,45,0.0
+587,,governor,,NM,Michelle Lujan Grisham,,D,,,Governors,,,8,NM,New Mexico,2,5,57,0.0
+588,,senator,,NM,Martin Heinrich,,D,,,Senators,,,6,NM,New Mexico,2,5,57,0.0
+589,,senator,,NM,Tom Udall,,D,,,Senators,,,6,NM,New Mexico,2,5,57,0.0
+590,,former DNC chair,,NM,Fred Harris,,D,,,Former party leaders,,,5,NM,New Mexico,2,5,57,0.0
+591,,mayor,Albuquerque,NM,Tim Keller,,D,,31.0,Mayors,,,3,NM,New Mexico,2,5,57,0.0
+592,,representative,,NM,Debra A. Haaland,,D,,,Representatives,,1.0,3,NM,New Mexico,2,5,57,0.0
+593,,representative,,NM,Xochitl Torres Small,,D,,,Representatives,,2.0,3,NM,New Mexico,2,5,57,0.0
+594,,representative,,NM,Ben R. Lujan,,D,,,Representatives,,3.0,3,NM,New Mexico,2,5,57,0.0
+595,,speaker,,NM,Brian Egolf,,D,,,State legislative leaders,House,,2,NM,New Mexico,2,5,57,0.0
+596,,president pro tem,,NM,Mary Kay Papen,,D,,,State legislative leaders,Senate,,2,NM,New Mexico,2,5,57,0.0
+597,,lieutenant governor,,NM,Howie Morales,,D,,135.0,Statewide officeholders,,,2,NM,New Mexico,2,5,57,0.0
+598,,secretary of state,,NM,Maggie Toulouse Oliver,,D,,136.0,Statewide officeholders,,,2,NM,New Mexico,2,5,57,0.0
+599,,attorney general,,NM,Hector Balderas,,D,,137.0,Statewide officeholders,,,2,NM,New Mexico,2,5,57,0.0
+600,,state treasurer,,NM,Tim Eichenberg,,D,,138.0,Statewide officeholders,,,2,NM,New Mexico,2,5,57,0.0
+601,,state auditor,,NM,Brian Colón,,D,,139.0,Statewide officeholders,,,2,NM,New Mexico,2,5,57,0.0
+602,,commissioner of public lands,,NM,Stephanie Garcia Richard,,D,,140.0,Statewide officeholders,,,2,NM,New Mexico,2,5,57,0.0
+603,,DNC member,,NM,Marg Elliston,,D,,,DNC members,,,1,NM,New Mexico,2,5,57,0.0
+604,,DNC member,,NM,Joni Marie Gutierrez,,D,,,DNC members,,,1,NM,New Mexico,2,5,57,0.0
+605,,DNC member,,NM,Robert Lara,,D,,,DNC members,,,1,NM,New Mexico,2,5,57,0.0
+606,,DNC member,,NM,Raymond Sanchez,,D,,,DNC members,,,1,NM,New Mexico,2,5,57,0.0
+607,,governor,,OR,Kate Brown,,D,,,Governors,,,8,OR,Oregon,0,3,50,0.0
+608,,senator,,OR,Jeff Merkley,,D,,,Senators,,,6,OR,Oregon,0,3,50,0.0
+609,,senator,,OR,Ron Wyden,,D,,,Senators,,,6,OR,Oregon,0,3,50,0.0
+610,,mayor,Portland,OR,Ted Wheeler,,D,,25.0,Mayors,,,3,OR,Oregon,0,3,50,0.0
+611,,representative,,OR,Suzanne Bonamici,,D,,,Representatives,,1.0,3,OR,Oregon,0,3,50,0.0
+612,,representative,,OR,Earl Blumenauer,,D,,,Representatives,,3.0,3,OR,Oregon,0,3,50,0.0
+613,,representative,,OR,Peter DeFazio,,D,,,Representatives,,4.0,3,OR,Oregon,0,3,50,0.0
+614,,representative,,OR,Kurt Schrader,,D,,,Representatives,,5.0,3,OR,Oregon,0,3,50,0.0
+615,,president,,OR,Peter Courtney,,D,,,State legislative leaders,Senate,,2,OR,Oregon,0,3,50,0.0
+616,,speaker,,OR,Tina Kotek,,D,,,State legislative leaders,House,,2,OR,Oregon,0,3,50,0.0
+617,,attorney general,,OR,Ellen Rosenblum,,D,,174.0,Statewide officeholders,,,2,OR,Oregon,0,3,50,0.0
+618,,state treasurer,,OR,Tobias Read,,D,,175.0,Statewide officeholders,,,2,OR,Oregon,0,3,50,0.0
+619,,commissioner of labor and industries,,OR,Val Hoyle,,D,,176.0,Statewide officeholders,,,2,OR,Oregon,0,3,50,0.0
+620,,DNC member,,OR,Jeanne Atkins,,D,,,DNC members,,,1,OR,Oregon,0,3,50,0.0
+621,,DNC member,,OR,Valdez G. Bravo,,D,,,DNC members,,,1,OR,Oregon,0,3,50,0.0
+622,,DNC member,,OR,Matt K. Keating,,D,,,DNC members,,,1,OR,Oregon,0,3,50,0.0
+623,,DNC member,,OR,Travis Nelson,,D,,,DNC members,,,1,OR,Oregon,0,3,50,0.0
+624,,DNC member,,OR,Tanya Shively,,D,,,DNC members,,,1,OR,Oregon,0,3,50,0.0
+625,,governor,,RI,Gina Raimondo,,D,,,Governors,,,8,RI,Rhode Island,10,3,42,0.0
+626,,senator,,RI,Jack Reed,,D,,,Senators,,,6,RI,Rhode Island,10,3,42,0.0
+627,,senator,,RI,Sheldon Whitehouse,,D,,,Senators,,,6,RI,Rhode Island,10,3,42,0.0
+628,,representative,,RI,David Cicilline,,D,,,Representatives,,1.0,3,RI,Rhode Island,10,3,42,0.0
+629,,representative,,RI,Jim Langevin,,D,,,Representatives,,2.0,3,RI,Rhode Island,10,3,42,0.0
+630,,speaker,,RI,Nicholas Mattiello,,D,,,State legislative leaders,House,,2,RI,Rhode Island,10,3,42,0.0
+631,,president,,RI,Dominick Ruggerio,,D,,,State legislative leaders,Senate,,2,RI,Rhode Island,10,3,42,0.0
+632,,lieutenant governor,,RI,Dan McKee,,D,,181.0,Statewide officeholders,,,2,RI,Rhode Island,10,3,42,0.0
+633,,secretary of state,,RI,Nellie Gorbea,,D,,182.0,Statewide officeholders,,,2,RI,Rhode Island,10,3,42,0.0
+634,,attorney general,,RI,Peter Neronha,,D,,183.0,Statewide officeholders,,,2,RI,Rhode Island,10,3,42,0.0
+635,,general treasurer,,RI,Seth Magaziner,,D,,184.0,Statewide officeholders,,,2,RI,Rhode Island,10,3,42,0.0
+636,,DNC member,,RI,Grace Diaz,,D,,,DNC members,,,1,RI,Rhode Island,10,3,42,0.0
+637,,DNC member,,RI,Edna O'Neill Mattson,,D,,,DNC members,,,1,RI,Rhode Island,10,3,42,0.0
+638,,DNC member,,RI,Rep Joseph M. McNamara,,D,,,DNC members,,,1,RI,Rhode Island,10,3,42,0.0
+639,,DNC member,,RI,Joseph R. Paolino Jr.,,D,,,DNC members,,,1,RI,Rhode Island,10,3,42,0.0
+640,,governor,,VA,Ralph Northam,,D,,,Governors,,,8,VA,Virginia,7,4,69,0.0
+641,,senator,,VA,Tim Kaine,,D,,,Senators,,,6,VA,Virginia,7,4,69,0.0
+642,,senator,,VA,Mark R. Warner,,D,,,Senators,,,6,VA,Virginia,7,4,69,0.0
+643,,former DNC chair,,VA,Terry McAuliffe,,D,,,Former party leaders,,,5,VA,Virginia,7,4,69,0.0
+644,,mayor,Virginia Beach,VA,Bobby Dyer,,,,43.0,Mayors,,,3,VA,Virginia,7,4,69,0.0
+645,,representative,,VA,Elaine Luria,,D,,,Representatives,,2.0,3,VA,Virginia,7,4,69,0.0
+646,,representative,,VA,Robert C. Scott,,D,,,Representatives,,3.0,3,VA,Virginia,7,4,69,0.0
+647,,representative,,VA,A. Donald McEachin,,D,,,Representatives,,4.0,3,VA,Virginia,7,4,69,0.0
+648,,representative,,VA,Abigail Spanberger,,D,,,Representatives,,7.0,3,VA,Virginia,7,4,69,0.0
+649,,representative,,VA,Don Beyer,,D,,,Representatives,,8.0,3,VA,Virginia,7,4,69,0.0
+650,,representative,,VA,Jennifer Wexton,,D,,,Representatives,,10.0,3,VA,Virginia,7,4,69,0.0
+651,,representative,,VA,Gerald E. Connolly,,D,,,Representatives,,11.0,3,VA,Virginia,7,4,69,0.0
+652,,minority leader,,VA,Eileen Filler-Corn,,D,,,State legislative leaders,House,,2,VA,Virginia,7,4,69,0.0
+653,,minority leader,,VA,Richard Saslaw,,D,,,State legislative leaders,Senate,,2,VA,Virginia,7,4,69,0.0
+654,,lieutenant governor,,VA,Justin Fairfax,,D,,212.0,Statewide officeholders,,,2,VA,Virginia,7,4,69,0.0
+655,,attorney general,,VA,Mark Herring,,D,,213.0,Statewide officeholders,,,2,VA,Virginia,7,4,69,0.0
+656,,DNC member,,VA,Yohannes Abraham,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+657,,DNC member,,VA,Marc Broklawski,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+658,,DNC member,,VA,Steven C. Cochran,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+659,,DNC member,,VA,Doris Crouse-Mays,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+660,,DNC member,,VA,Yasmine P. Taeb Esq.,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+661,,DNC member,,VA,Frank Leone,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+662,,DNC member,,VA,Christopher P. Lu,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+663,,DNC member,,VA,Leopoldo J. Martinez,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+664,,DNC member,,VA,Jennifer L. McClellan,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+665,,DNC member,,VA,Atima Omara,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+666,,DNC member,,VA,Susan R. Swecker,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+667,,DNC member,,VA,Jeion A. Ward,,D,,,DNC members,,,1,VA,Virginia,7,4,69,0.0
+668,,senator,,AL,Doug Jones,,D,,,Senators,,,6,AL,Alabama,6,6,18,0.0
+669,,representative,,AL,Terri A. Sewell,,D,,,Representatives,,7.0,3,AL,Alabama,6,6,18,0.0
+670,,minority leader,,AL,Anthony Daniels,,D,,,State legislative leaders,House,,2,AL,Alabama,6,6,18,0.0
+671,,minority leader,,AL,Bobby Singleton,,D,,,State legislative leaders,Senate,,2,AL,Alabama,6,6,18,0.0
+672,,DNC member,,AL,Clinton M. Daughtrey,,D,,,DNC members,,,1,AL,Alabama,6,6,18,0.0
+673,,DNC member,,AL,Randy B. Kelley,,D,,,DNC members,,,1,AL,Alabama,6,6,18,0.0
+674,,DNC member,,AL,Janet May,,D,,,DNC members,,,1,AL,Alabama,6,6,18,0.0
+675,,DNC member,,AL,Charlie Lethate Staten,,D,,,DNC members,,,1,AL,Alabama,6,6,18,0.0
+676,,DNC member,,AL,Nancy L. Worley,,D,,,DNC members,,,1,AL,Alabama,6,6,18,0.0
+677,,senator,,AZ,Kyrsten Sinema,,D,,,Senators,,,6,AZ,Arizona,1,5,38,0.0
+678,,mayor,Tucson,AZ,Jonathan Rothschild,,D,,32.0,Mayors,,,3,AZ,Arizona,1,5,38,0.0
+679,,representative,,AZ,Tom O'Halleran,,D,,,Representatives,,1.0,3,AZ,Arizona,1,5,38,0.0
+680,,representative,,AZ,Ann Kirkpatrick,,D,,,Representatives,,2.0,3,AZ,Arizona,1,5,38,0.0
+681,,representative,,AZ,Raul Grijalva,,D,,,Representatives,,3.0,3,AZ,Arizona,1,5,38,0.0
+682,,representative,,AZ,Ruben Gallego,,D,,,Representatives,,7.0,3,AZ,Arizona,1,5,38,0.0
+683,,representative,,AZ,Greg Stanton,,D,,,Representatives,,9.0,3,AZ,Arizona,1,5,38,0.0
+684,,minority leader,,AZ,David Bradley,,D,,,State legislative leaders,Senate,,2,AZ,Arizona,1,5,38,0.0
+685,,minority leader,,AZ,Charlene Fernandez,,D,,,State legislative leaders,House,,2,AZ,Arizona,1,5,38,0.0
+686,,secretary of state,,AZ,Katie Hobbs,,D,,8.0,Statewide officeholders,,,2,AZ,Arizona,1,5,38,0.0
+687,,superintendent of public instruction,,AZ,Kathy Hoffman,,D,,11.0,Statewide officeholders,,,2,AZ,Arizona,1,5,38,0.0
+688,,DNC member,,AZ,Douglas Ballard,,D,,,DNC members,,,1,AZ,Arizona,1,5,38,0.0
+689,,DNC member,,AZ,William Patrick Burns,,D,,,DNC members,,,1,AZ,Arizona,1,5,38,0.0
+690,,DNC member,,AZ,Luis Alberto Heredia,,D,,,DNC members,,,1,AZ,Arizona,1,5,38,0.0
+691,,DNC member,,AZ,Ellie Perez,,D,,,DNC members,,,1,AZ,Arizona,1,5,38,0.0
+692,,DNC member,,AZ,Felecia Rotellini,,D,,,DNC members,,,1,AZ,Arizona,1,5,38,0.0
+693,,DNC member,,AZ,Sierra Yamanaka,,D,,,DNC members,,,1,AZ,Arizona,1,5,38,0.0
+694,,senator,,NH,Margaret Wood Hassan,,D,,,Senators,,,6,NH,New Hampshire,10,1,26,0.0
+695,,senator,,NH,Jeanne Shaheen,,D,,,Senators,,,6,NH,New Hampshire,10,1,26,0.0
+696,,representative,,NH,Chris Pappas,,D,,,Representatives,,1.0,3,NH,New Hampshire,10,1,26,0.0
+697,,representative,,NH,Ann Kuster,,D,,,Representatives,,2.0,3,NH,New Hampshire,10,1,26,0.0
+698,,speaker,,NH,Steve Shurtleff,,D,,,State legislative leaders,House,,2,NH,New Hampshire,10,1,26,0.0
+699,,president,,NH,Donna Soucy,,D,,,State legislative leaders,Senate,,2,NH,New Hampshire,10,1,26,0.0
+700,,DNC member,,NH,Raymond C. Buckley II,,D,,,DNC members,,,1,NH,New Hampshire,10,1,26,0.0
+701,,DNC member,,NH,Martha Fuller Clark,,D,,,DNC members,,,1,NH,New Hampshire,10,1,26,0.0
+702,,DNC member,,NH,William H. Shaheen,,D,,,DNC members,,,1,NH,New Hampshire,10,1,26,0.0
+703,,DNC member,,NH,Kathleen Sullivan,,D,,,DNC members,,,1,NH,New Hampshire,10,1,26,0.0
+704,,senator,,NV,Catherine Cortez Masto,,D,,,Senators,,,6,NV,Nevada,1,3,49,0.0
+705,,senator,,NV,Jacky Rosen,,D,,,Senators,,,6,NV,Nevada,1,3,49,0.0
+706,,former Senate majority leader,,NV,Harry Reid,,D,,,Former party leaders,,,5,NV,Nevada,1,3,49,0.0
+707,,mayor,Las Vegas,NV,Carolyn Goodman,,,,27.0,Mayors,,,3,NV,Nevada,1,3,49,0.0
+708,,mayor,Henderson,NV,Debra March,,D,,61.0,Mayors,,,3,NV,Nevada,1,3,49,0.0
+709,,representative,,NV,Dina Titus,,D,,,Representatives,,1.0,3,NV,Nevada,1,3,49,0.0
+710,,representative,,NV,Susie Lee,,D,,,Representatives,,3.0,3,NV,Nevada,1,3,49,0.0
+711,,representative,,NV,Steven A. Horsford,,D,,,Representatives,,4.0,3,NV,Nevada,1,3,49,0.0
+712,,president pro tem,,NV,Mo Denis,,D,,,State legislative leaders,Senate,,2,NV,Nevada,1,3,49,0.0
+713,,speaker,,NV,Jason Frierson,,D,,,State legislative leaders,House,,2,NV,Nevada,1,3,49,0.0
+714,,lieutenant governor,,NV,Kate Marshall,,D,,129.0,Statewide officeholders,,,2,NV,Nevada,1,3,49,0.0
+715,,attorney general,,NV,Aaron Ford,,D,,131.0,Statewide officeholders,,,2,NV,Nevada,1,3,49,0.0
+716,,state treasurer,,NV,Zach Conine,,D,,132.0,Statewide officeholders,,,2,NV,Nevada,1,3,49,0.0
+717,,state controller,,NV,Catherine Byrne,,D,,133.0,Statewide officeholders,,,2,NV,Nevada,1,3,49,0.0
+718,,DNC member,,NV,Artie Blanco,,D,,,DNC members,,,1,NV,Nevada,1,3,49,0.0
+719,,DNC member,,NV,Alex Goff,,D,,,DNC members,,,1,NV,Nevada,1,3,49,0.0
+720,,DNC member,,NV,William McCurdy II,,D,,,DNC members,,,1,NV,Nevada,1,3,49,0.0
+721,,DNC member,,NV,Marty McGarry,,D,,,DNC members,,,1,NV,Nevada,1,3,49,0.0
+722,,DNC member,,NV,Allison A. Stephens,,D,,,DNC members,,,1,NV,Nevada,1,3,49,0.0
+723,,senator,,WI,Tammy Baldwin,,D,,,Senators,,,6,WI,Wisconsin,5,1,39,0.0
+724,,mayor,Milwaukee,WI,Tom Barrett,,D,,30.0,Mayors,,,3,WI,Wisconsin,5,1,39,0.0
+725,,representative,,WI,Mark Pocan,,D,,,Representatives,,2.0,3,WI,Wisconsin,5,1,39,0.0
+726,,representative,,WI,Ron Kind,,D,,,Representatives,,3.0,3,WI,Wisconsin,5,1,39,0.0
+727,,representative,,WI,Gwen Moore,,D,,,Representatives,,4.0,3,WI,Wisconsin,5,1,39,0.0
+728,,minority leader,,WI,Gordon Hintz,,D,,,State legislative leaders,House,,2,WI,Wisconsin,5,1,39,0.0
+729,,minority leader,,WI,Jennifer Shilling,,D,,,State legislative leaders,Senate,,2,WI,Wisconsin,5,1,39,0.0
+730,,lieutenant governor,,WI,Mandela Barnes,,D,,227.0,Statewide officeholders,,,2,WI,Wisconsin,5,1,39,0.0
+731,,secretary of state,,WI,Doug La Follette,,D,,228.0,Statewide officeholders,,,2,WI,Wisconsin,5,1,39,0.0
+732,,state treasurer,,WI,Sarah Godlewski,,D,,229.0,Statewide officeholders,,,2,WI,Wisconsin,5,1,39,0.0
+733,,attorney general,,WI,Josh Kaul,,D,,230.0,Statewide officeholders,,,2,WI,Wisconsin,5,1,39,0.0
+734,,superintendent of public instruction,,WI,Carolyn Stanford Taylor,,D,,231.0,Statewide officeholders,,,2,WI,Wisconsin,5,1,39,0.0
+735,,DNC member,,WI,Janet T. Bewley,,D,,,DNC members,,,1,WI,Wisconsin,5,1,39,0.0
+736,,DNC member,,WI,David Bowen,,D,,,DNC members,,,1,WI,Wisconsin,5,1,39,0.0
+737,,DNC member,,WI,Martha K. Laning,,D,,,DNC members,,,1,WI,Wisconsin,5,1,39,0.0
+738,,DNC member,,WI,Martha Marie Love,,D,,,DNC members,,,1,WI,Wisconsin,5,1,39,0.0
+739,,DNC member,,WI,Mahlon Mitchell,,D,,,DNC members,,,1,WI,Wisconsin,5,1,39,0.0
+740,,DNC member,,WI,Khary Penebaker,,D,,,DNC members,,,1,WI,Wisconsin,5,1,39,0.0
+741,,DNC member,,WI,Andrew Werthmann,,D,,,DNC members,,,1,WI,Wisconsin,5,1,39,0.0
+742,,senator,,WV,Joe Manchin III,,D,,,Senators,,,6,WV,West Virginia,6,4,16,0.0
+743,,minority leader,,WV,Tim Miley,,D,,,State legislative leaders,House,,2,WV,West Virginia,6,4,16,0.0
+744,,minority leader,,WV,Roman Prezioso,,D,,,State legislative leaders,Senate,,2,WV,West Virginia,6,4,16,0.0
+745,,state treasurer,,WV,John Perdue,,D,,224.0,Statewide officeholders,,,2,WV,West Virginia,6,4,16,0.0
+746,,DNC member,,WV,Belinda J. Biafore,,D,,,DNC members,,,1,WV,West Virginia,6,4,16,0.0
+747,,DNC member,,WV,Elaine A. Harris,,D,,,DNC members,,,1,WV,West Virginia,6,4,16,0.0
+748,,DNC member,,WV,William Laird,,D,,,DNC members,,,1,WV,West Virginia,6,4,16,0.0
+749,,DNC member,,WV,Pat Maroney,,D,,,DNC members,,,1,WV,West Virginia,6,4,16,0.0
+750,,former DNC chair,,FL,Kenneth Curtis,,D,,,Former party leaders,,,5,FL,Florida,8,7,68,0.0
+751,,former DNC chair,,FL,Debbie Wasserman Schultz,,D,,,Former party leaders,,,5,FL,Florida,8,7,68,0.0
+752,,mayor,Tampa,FL,Bob Buckhorn ,,D,,51.0,Mayors,,,3,FL,Florida,8,7,68,0.0
+753,,representative,,FL,Al Lawson,,D,,,Representatives,,5.0,3,FL,Florida,8,7,68,0.0
+754,,representative,,FL,Stephanie Murphy,,D,,,Representatives,,7.0,3,FL,Florida,8,7,68,0.0
+755,,representative,,FL,Darren Soto,,D,,,Representatives,,9.0,3,FL,Florida,8,7,68,0.0
+756,,representative,,FL,Val Demings,,D,,,Representatives,,10.0,3,FL,Florida,8,7,68,0.0
+757,,representative,,FL,Charlie Crist,,D,,,Representatives,,13.0,3,FL,Florida,8,7,68,0.0
+758,,representative,,FL,Kathy Castor,,D,,,Representatives,,14.0,3,FL,Florida,8,7,68,0.0
+759,,representative,,FL,Alcee L. Hastings,,D,,,Representatives,,20.0,3,FL,Florida,8,7,68,0.0
+760,,representative,,FL,Lois Frankel,,D,,,Representatives,,21.0,3,FL,Florida,8,7,68,0.0
+761,,representative,,FL,Ted Deutch,,D,,,Representatives,,22.0,3,FL,Florida,8,7,68,0.0
+762,,representative,,FL,Frederica Wilson,,D,,,Representatives,,24.0,3,FL,Florida,8,7,68,0.0
+763,,representative,,FL,Debbie Mucarsel-Powell,,D,,,Representatives,,26.0,3,FL,Florida,8,7,68,0.0
+764,,representative,,FL,Donna Shalala,,D,,,Representatives,,27.0,3,FL,Florida,8,7,68,0.0
+765,,minority leader,,FL,Aurdrey Gibson,,D,,,State legislative leaders,Senate,,2,FL,Florida,8,7,68,0.0
+766,,minority leader,,FL,Kionne McGhee,,D,,,State legislative leaders,House,,2,FL,Florida,8,7,68,0.0
+767,,commissioner of agriculture and consumer services,,FL,Nikki Fried,,D,,43.0,Statewide officeholders,,,2,FL,Florida,8,7,68,0.0
+768,,DNC member,,FL,Nikki Ford Barnes,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+769,,DNC member,,FL,Dwight Bullard,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+770,,DNC member,,FL,Cynthia M. Busch,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+771,,DNC member,,FL,Grace Carrington,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+772,,DNC member,,FL,Alan R. Clendenin,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+773,,DNC member,,FL,Alma R. Gonzalez Esq.,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+774,,DNC member,,FL,Ken N. Evans,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+775,,DNC member,,FL,Shawn W. Kinsey,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+776,,DNC member,,FL,Judy C. Mount,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+777,,DNC member,,FL,John A. Ramos,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+778,,DNC member,,FL,Terrie Lorraine Rizzo,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+779,,DNC member,,FL,Casmore Shaw,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+780,,DNC member,,FL,Craig Smith,,D,,,DNC members,,,1,FL,Florida,8,7,68,0.0
+781,,former House majority leader,,MO,Richard Gephardt,,D,,,Former party leaders,,,5,MO,Missouri,4,4,30,0.0
+782,,mayor,Kansas City,MO,Sly James,,D,,36.0,Mayors,,,3,MO,Missouri,4,4,30,0.0
+783,,mayor,St. Louis,MO,Lyda Krewson,,D,,59.0,Mayors,,,3,MO,Missouri,4,4,30,0.0
+784,,representative,,MO,"William ""Lacy"" Clay Jr.",,D,,,Representatives,,1.0,3,MO,Missouri,4,4,30,0.0
+785,,representative,,MO,Emanuel Cleaver,,D,,,Representatives,,5.0,3,MO,Missouri,4,4,30,0.0
+786,,minority leader,,MO,Crystal Quade,,D,,,State legislative leaders,House,,2,MO,Missouri,4,4,30,0.0
+787,,minority leader,,MO,Gina Walsh,,D,,,State legislative leaders,Senate,,2,MO,Missouri,4,4,30,0.0
+788,,state auditor,,MO,Nicole Galloway,,D,,118.0,Statewide officeholders,,,2,MO,Missouri,4,4,30,0.0
+789,,DNC member,,MO,Winston Apple,,D,,,DNC members,,,1,MO,Missouri,4,4,30,0.0
+790,,DNC member,,MO,Jean Peters Baker,,D,,,DNC members,,,1,MO,Missouri,4,4,30,0.0
+791,,DNC member,,MO,Persephone Dakopolos,,D,,,DNC members,,,1,MO,Missouri,4,4,30,0.0
+792,,DNC member,,MO,Megan E. Green,,D,,,DNC members,,,1,MO,Missouri,4,4,30,0.0
+793,,DNC member,,MO,Clem Smith,,D,,,DNC members,,,1,MO,Missouri,4,4,30,0.0
+794,,DNC member,,MO,Brian Wahby,,D,,,DNC members,,,1,MO,Missouri,4,4,30,0.0
+795,,DNC member,,MO,Curtis Wylde,,D,,,DNC members,,,1,MO,Missouri,4,4,30,0.0
+796,,former Senate majority leader,,SD,Tom Daschle,,D,,,Former party leaders,,,5,SD,South Dakota,3,3,13,0.0
+797,,minority leader,,SD,Troy Heinert,,D,,,State legislative leaders,Senate,,2,SD,South Dakota,3,3,13,0.0
+798,,minority leader,,SD,Jamie Smith,,D,,,State legislative leaders,House,,2,SD,South Dakota,3,3,13,0.0
+799,,DNC member,,SD,Deb J. Knecht,,D,,,DNC members,,,1,SD,South Dakota,3,3,13,0.0
+800,,DNC member,,SD,Joe Lowe,,D,,,DNC members,,,1,SD,South Dakota,3,3,13,0.0
+801,,DNC member,,SD,Ann Tornberg,,D,,,DNC members,,,1,SD,South Dakota,3,3,13,0.0
+802,,DNC member,,SD,Bill E. Walsh,,D,,,DNC members,,,1,SD,South Dakota,3,3,13,0.0
+803,,mayor,Indianapolis,IN,Joe Hogsett,,D,,16.0,Mayors,,,3,IN,Indiana,5,3,18,0.0
+804,,representative,,IN,Peter Visclosky,,D,,,Representatives,,1.0,3,IN,Indiana,5,3,18,0.0
+805,,representative,,IN,André Carson,,D,,,Representatives,,7.0,3,IN,Indiana,5,3,18,0.0
+806,,minority leader,,IN,Phil Giaquinta,,D,,,State legislative leaders,House,,2,IN,Indiana,5,3,18,0.0
+807,,minority leader,,IN,Tim Lanane,,D,,,State legislative leaders,Senate,,2,IN,Indiana,5,3,18,0.0
+808,,DNC member,,IN,David a Frye,,D,,,DNC members,,,1,IN,Indiana,5,3,18,0.0
+809,,DNC member,,IN,Cindy S. Henry,,D,,,DNC members,,,1,IN,Indiana,5,3,18,0.0
+810,,DNC member,,IN,Cordelia M. Lewis-Burks,,D,,,DNC members,,,1,IN,Indiana,5,3,18,0.0
+811,,DNC member,,IN,S. Anthony Long,,D,,,DNC members,,,1,IN,Indiana,5,3,18,0.0
+812,,DNC member,,IN,John C. Zody,,D,,,DNC members,,,1,IN,Indiana,5,3,18,0.0
+813,,mayor,Louisville,KY,Greg Fischer,,D,,28.0,Mayors,,,3,KY,Kentucky,5,4,21,0.0
+814,,mayor,Lexington,KY,Linda Gorton,,,,57.0,Mayors,,,3,KY,Kentucky,5,4,21,0.0
+815,,representative,,KY,John A. Yarmuth,,D,,,Representatives,,3.0,3,KY,Kentucky,5,4,21,0.0
+816,,minority floor leader,,KY,Rocky Adkins,,D,,,State legislative leaders,House,,2,KY,Kentucky,5,4,21,0.0
+817,,minority floor leader,,KY,Morgan McGarvey,,D,,,State legislative leaders,Senate,,2,KY,Kentucky,5,4,21,0.0
+818,,secretary of state,,KY,Alison Lundergan-Grimes,,D,,81.0,Statewide officeholders,,,2,KY,Kentucky,5,4,21,0.0
+819,,attorney general,,KY,Andy Beshear,,D,,82.0,Statewide officeholders,,,2,KY,Kentucky,5,4,21,0.0
+820,,DNC member,,KY,Cassie Chambers Armstrong,,D,,,DNC members,,,1,KY,Kentucky,5,4,21,0.0
+821,,DNC member,,KY,Charlotte Lundergan,,D,,,DNC members,,,1,KY,Kentucky,5,4,21,0.0
+822,,DNC member,,KY,Ben Self,,D,,,DNC members,,,1,KY,Kentucky,5,4,21,0.0
+823,,DNC member,,KY,Nathan Gene Smith,,D,,,DNC members,,,1,KY,Kentucky,5,4,21,0.0
+824,,representative,,IA,Abby Finkenauer,,D,,,Representatives,,1.0,3,IA,Iowa,4,3,24,0.0
+825,,representative,,IA,David Loebsack,,D,,,Representatives,,2.0,3,IA,Iowa,4,3,24,0.0
+826,,representative,,IA,Cindy Axne,,D,,,Representatives,,3.0,3,IA,Iowa,4,3,24,0.0
+827,,minority leader,,IA,Janet Petersen,,D,,,State legislative leaders,Senate,,2,IA,Iowa,4,3,24,0.0
+828,,minority leader,,IA,Todd Prichard,,D,,,State legislative leaders,House,,2,IA,Iowa,4,3,24,0.0
+829,,attorney general,,IA,Tom Miller,,D,,71.0,Statewide officeholders,,,2,IA,Iowa,4,3,24,0.0
+830,,state treasurer,,IA,Michael Fitzgerald,,D,,72.0,Statewide officeholders,,,2,IA,Iowa,4,3,24,0.0
+831,,state auditor,,IA,Rob Sand,,D,,73.0,Statewide officeholders,,,2,IA,Iowa,4,3,24,0.0
+832,,DNC member,,IA,Jan M. Bauer,,D,,,DNC members,,,1,IA,Iowa,4,3,24,0.0
+833,,DNC member,,IA,Scott M. Brennan,,D,,,DNC members,,,1,IA,Iowa,4,3,24,0.0
+834,,DNC member,,IA,Sandy Opstvedt,,D,,,DNC members,,,1,IA,Iowa,4,3,24,0.0
+835,,DNC member,,IA,Andrea Phillips,,D,,,DNC members,,,1,IA,Iowa,4,3,24,0.0
+836,,DNC member,,IA,Troy M. Price,,D,,,DNC members,,,1,IA,Iowa,4,3,24,0.0
+837,,representative,,KS,Sharice Davids,,D,,,Representatives,,3.0,3,KS,Kansas,3,5,13,0.0
+838,,minority leader,,KS,Anthony Hensley,,D,,,State legislative leaders,Senate,,2,KS,Kansas,3,5,13,0.0
+839,,minority leader,,KS,Tom Sawyer,,D,,,State legislative leaders,House,,2,KS,Kansas,3,5,13,0.0
+840,,lieutenant governor,,KS,Lynn Rogers,,D,,75.0,Statewide officeholders,,,2,KS,Kansas,3,5,13,0.0
+841,,DNC member,,KS,John Gibson,,D,,,DNC members,,,1,KS,Kansas,3,5,13,0.0
+842,,DNC member,,KS,Vicki Hiatt,,D,,,DNC members,,,1,KS,Kansas,3,5,13,0.0
+843,,DNC member,,KS,Teresa Garcia Krusor,,D,,,DNC members,,,1,KS,Kansas,3,5,13,0.0
+844,,DNC member,,KS,Christopher T. Reeves,,D,,,DNC members,,,1,KS,Kansas,3,5,13,0.0
+845,,representative,,MS,Bennie G. Thompson,,D,,,Representatives,,2.0,3,MS,Mississippi,5,6,13,0.0
+846,,minority leader,,MS,David Baria,,D,,,State legislative leaders,House,,2,MS,Mississippi,5,6,13,0.0
+847,,Democratic caucus chairman,,MS,Derrick T. Simmons,,D,,,State legislative leaders,Senate,,2,MS,Mississippi,5,6,13,0.0
+848,,attorney general,,MS,Jim Hood,,D,,109.0,Statewide officeholders,,,2,MS,Mississippi,5,6,13,0.0
+849,,DNC member,,MS,Will Colom,,D,,,DNC members,,,1,MS,Mississippi,5,6,13,0.0
+850,,DNC member,,MS,Rae Shawn Davis,,D,,,DNC members,,,1,MS,Mississippi,5,6,13,0.0
+851,,DNC member,,MS,Bobby Moak,,D,,,DNC members,,,1,MS,Mississippi,5,6,13,0.0
+852,,DNC member,,MS,Vicki R. Slater,,D,,,DNC members,,,1,MS,Mississippi,5,6,13,0.0
+853,,representative,,OK,Kendra Horn,,D,,,Representatives,,5.0,3,OK,Oklahoma,3,6,11,0.0
+854,,minority leader,,OK,Kay Floyd,,D,,,State legislative leaders,Senate,,2,OK,Oklahoma,3,6,11,0.0
+855,,minority leader,,OK,Emily Virgin,,D,,,State legislative leaders,House,,2,OK,Oklahoma,3,6,11,0.0
+856,,DNC member,,OK,Brian Jones,,D,,,DNC members,,,1,OK,Oklahoma,3,6,11,0.0
+857,,DNC member,,OK,Anna Langthorn,,D,,,DNC members,,,1,OK,Oklahoma,3,6,11,0.0
+858,,DNC member,,OK,Betty McElderry,,D,,,DNC members,,,1,OK,Oklahoma,3,6,11,0.0
+859,,DNC member,,OK,David L. Walters,,D,,,DNC members,,,1,OK,Oklahoma,3,6,11,0.0
+860,,representative,,UT,Ben McAdams,,D,,,Representatives,,4.0,3,UT,Utah,1,4,11,0.0
+861,,minority leader,,UT,Brian King,,D,,,State legislative leaders,House,,2,UT,Utah,1,4,11,0.0
+862,,minority leader,,UT,Karen Mayne,,D,,,State legislative leaders,Senate,,2,UT,Utah,1,4,11,0.0
+863,,DNC member,,UT,Marcus Stevenson,,D,,,DNC members,,,1,UT,Utah,1,4,11,0.0
+864,,DNC member,,UT,Charles A. Stormont,,D,,,DNC members,,,1,UT,Utah,1,4,11,0.0
+865,,DNC member,,UT,Daisy Thomas,,D,,,DNC members,,,1,UT,Utah,1,4,11,0.0
+866,,DNC member,,UT,Jenny Wilson,,D,,,DNC members,,,1,UT,Utah,1,4,11,0.0
+867,,minority leader,,AK,Tom Begich,,D,,,State legislative leaders,Senate,,2,AK,Alaska,1,7,8,0.0
+868,,speaker,,AK,Bryce Edgmon,,I,,,State legislative leaders,House,,2,AK,Alaska,1,7,8,0.0
+869,,DNC member,,AK,Chuck Degnan,,D,,,DNC members,,,1,AK,Alaska,1,7,8,0.0
+870,,DNC member,,AK,Sheila A. Selkregg,,D,,,DNC members,,,1,AK,Alaska,1,7,8,0.0
+871,,DNC member,,AK,Casey Steinau,,D,,,DNC members,,,1,AK,Alaska,1,7,8,0.0
+872,,DNC member,,AK,Edward Wesley,,D,,,DNC members,,,1,AK,Alaska,1,7,8,0.0
+873,,minority leader,,AR,Charles Blake,,D,,,State legislative leaders,House,,2,AR,Arkansas,4,5,9,0.0
+874,,minority leader,,AR,Keith Ingram,,D,,,State legislative leaders,Senate,,2,AR,Arkansas,4,5,9,0.0
+875,,DNC member,,AR,Michael John Gray,,D,,,DNC members,,,1,AR,Arkansas,4,5,9,0.0
+876,,DNC member,,AR,Nicole Hart,,D,,,DNC members,,,1,AR,Arkansas,4,5,9,0.0
+877,,DNC member,,AR,Dustin McDaniel,,D,,,DNC members,,,1,AR,Arkansas,4,5,9,0.0
+878,,DNC member,,AR,Lottie Shackelford,,D,,,DNC members,,,1,AR,Arkansas,4,5,9,0.0
+879,,DNC member,,AR,Kasey Summerville,,D,,,DNC members,,,1,AR,Arkansas,4,5,9,0.0
+880,,minority leader,,ID,Mathew Erpelding,,D,,,State legislative leaders,House,,2,ID,Idaho,1,2,9,0.0
+881,,minority leader,,ID,Michelle Stennett,,D,,,State legislative leaders,Senate,,2,ID,Idaho,1,2,9,0.0
+882,,DNC member,,ID,Evangeline M. Beechler,,D,,,DNC members,,,1,ID,Idaho,1,2,9,0.0
+883,,DNC member,,ID,Susan S. Eastlake,,D,,,DNC members,,,1,ID,Idaho,1,2,9,0.0
+884,,DNC member,,ID,Paulette Jordan,,D,,,DNC members,,,1,ID,Idaho,1,2,9,0.0
+885,,DNC member,,ID,Bert C. Marley,,D,,,DNC members,,,1,ID,Idaho,1,2,9,0.0
+886,,DNC member,,ID,Jerry C. Shriner,,D,,,DNC members,,,1,ID,Idaho,1,2,9,0.0
+887,,minority leader,,ND,Josh Boschee,,D,,,State legislative leaders,House,,2,ND,North Dakota,3,2,7,0.0
+888,,minority leader,,ND,Joan Heckaman,,D,,,State legislative leaders,Senate,,2,ND,North Dakota,3,2,7,0.0
+889,,DNC member,,ND,Ondine E. Baird,,D,,,DNC members,,,1,ND,North Dakota,3,2,7,0.0
+890,,DNC member,,ND,Joshua A. Boschee,,D,,,DNC members,,,1,ND,North Dakota,3,2,7,0.0
+891,,DNC member,,ND,Warren D. Larson,,D,,,DNC members,,,1,ND,North Dakota,3,2,7,0.0
+892,,Executive Board member,,NE,Kate Bolz,,D,,,State legislative leaders,Legislature,,2,NE,Nebraska,3,4,8,0.0
+893,,Executive Board chairman,,NE,Tony Vargas,,D,,,State legislative leaders,Legislature,,2,NE,Nebraska,3,4,8,0.0
+894,,DNC member,,NE,Ron Kaminski,,D,,,DNC members,,,1,NE,Nebraska,3,4,8,0.0
+895,,DNC member,,NE,Jane Erin Fleming Kleeb,,D,,,DNC members,,,1,NE,Nebraska,3,4,8,0.0
+896,,DNC member,,NE,Frank D. LaMere,,D,,,DNC members,,,1,NE,Nebraska,3,4,8,0.0
+897,,DNC member,,NE,Patricia A. Zieg,,D,,,DNC members,,,1,NE,Nebraska,3,4,8,0.0
+898,,minority leader,,WY,Cathy Connolly,,D,,,State legislative leaders,House,,2,WY,Wyoming,2,3,8,0.0
+899,,minority leader,,WY,Chris Rothfuss,,D,,,State legislative leaders,Senate,,2,WY,Wyoming,2,3,8,0.0
+900,,DNC member,,WY,Joseph M. Barbuto,,D,,,DNC members,,,1,WY,Wyoming,2,3,8,0.0
+901,,DNC member,,WY,Jessica S. Chambers,,D,,,DNC members,,,1,WY,Wyoming,2,3,8,0.0
+902,,DNC member,,WY,Lucas Fralick,,D,,,DNC members,,,1,WY,Wyoming,2,3,8,0.0
+903,,DNC member,,WY,Erin O'Doherty,,D,,,DNC members,,,1,WY,Wyoming,2,3,8,0.0
